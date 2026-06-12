@@ -1,0 +1,23 @@
+sources:
+  listone_ufficiale:
+    enabled: true
+    url: "https://www.fantacalcio.it/api/v1/Excel/prices/20/1"
+    type: xlsx
+    user_agent: "fanta-engine/0.1 (personal use)"
+    timeout_seconds: 30
+
+  storico_aggregato:
+    enabled: true
+    source_choice: "fantacalcio.it"
+    rationale: "Fantacalcio.it espone voto + fantavoto separati, componenti grezzi, accesso via API strutturata (xlsx). Alternativa: PianetaFanta (no API, richiede scraping)."
+    stagioni_backfill: 4
+    user_agent: "fanta-engine/0.1 (personal use)"
+
+  giornata_voti:
+    enabled: true
+    source_choice: "pianetafanta.it"
+    rationale: "Unica fonte con archivio storico completo voti giornalieri D/C/P (2002-25). Fantacalcio.it limita a 1-2 stagioni. Richiede scraping web."
+    url_base: "https://www.pianetafanta.it/voti-ufficiali-archivio.asp"
+    stagioni: 2
+    user_agent: "fanta-engine/0.1 (personal use)"
+    rate_limit_ms: 1000

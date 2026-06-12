@@ -1,0 +1,43 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fanta-engine"
+version = "0.1.0"
+description = "Fantacalcio personal league engine"
+requires-python = ">=3.12"
+authors = [
+  { name = "User", email = "fantacalcio.mg@gmail.com" }
+]
+dependencies = [
+  "polars>=1.0",
+  "duckdb>=1.0",
+  "httpx>=0.26",
+  "selectolax>=0.3",
+  "openpyxl>=3.1",
+  "pydantic>=2.0",
+  "typer>=0.12",
+  "rapidfuzz>=3.6",
+  "pyyaml>=6.0",
+  "pytest>=7.4",
+  "ruff>=0.2",
+]
+
+[project.scripts]
+fanta = "fanta.cli:app"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "C4", "PIE"]
+ignore = ["E501"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/fanta"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"

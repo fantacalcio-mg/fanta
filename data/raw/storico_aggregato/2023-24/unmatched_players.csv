@@ -1,0 +1,1391 @@
+storico_id,nome,squadra,stagione,generated_player_uid
+453,Szczesny,Juventus,2021-22,0034e9f88d4196fd
+2468,Ospina,Napoli,2021-22,801dd2b4b123fbf9
+250,Handanovic,Inter,2021-22,5da3be5d6420de71
+316,Berisha,Torino,2021-22,4bb5b73295a81c7b
+4270,Rui Patricio,Roma,2021-22,4877f67f8857e4d0
+1934,Strakosha,Lazio,2021-22,59199003883cab3a
+2792,Musso,Atalanta,2021-22,3b761fb1b36efb22
+4964,Vicario,Empoli,2021-22,0b5287af594abfbe
+509,Consigli,Sassuolo,2021-22,9f3e0708237ab4b8
+2178,Cragno,Cagliari,2021-22,15b211f58f8d9ced
+2179,Sirigu,Genoa,2021-22,4ae3482e584bba2d
+159,Sepe,Salernitana,2021-22,295fdef1c0c6b084
+5478,Maenpaa,Venezia,2021-22,dadff10a729b67c5
+387,Reina,Lazio,2021-22,262e5843c3cdc5fd
+720,Belec,Salernitana,2021-22,758da71c88be7e14
+799,Bardi,Bologna,2021-22,f762270eeaf4f576
+1917,Dragowski,Fiorentina,2021-22,3ece324229f2ecde
+5528,Zovko,Spezia,2021-22,3e6ff8bbc1a00907
+3,Radunovic,Cagliari,2021-22,a89e9c49a3c064ba
+5005,Zoet,Spezia,2021-22,9a4b7f1de0fdc401
+41,Mirante,Milan,2021-22,563f623b98b5f9db
+42,Sarr M.,Bologna,2021-22,0b7d703612ba5727
+160,Tatarusanu,Milan,2021-22,46429a718ee1938f
+220,Ujkani,Empoli,2021-22,13f9e4ee1fe84737
+318,Marchetti,Genoa,2021-22,7e78aae817707d72
+481,Brignoli,Empoli,2021-22,765169ad85708706
+510,Pegolo,Sassuolo,2021-22,ee5839e91451b94f
+1843,Radu I.,Inter,2021-22,18050c218e0ef117
+1889,Cordaz,Inter,2021-22,03736049b350ae68
+1946,Aresti,Cagliari,2021-22,123d7e89145f1d30
+1947,Fiorillo,Salernitana,2021-22,15449a58a13575d5
+2091,Plizzari,Milan,2021-22,2643422fcfc58f6a
+2249,Santurro,Udinese,2021-22,d9b4a7f93ba7fac4
+2628,Romero S.,Venezia,2021-22,f6b395d9435307c8
+2781,Fuzato,Roma,2021-22,f112ae925abd692b
+2790,Rosati,Fiorentina,2021-22,5be9ca40bd57b07c
+4441,Andrenacci,Genoa,2021-22,bc1ad4f890ad429c
+4491,Berardi A.,Verona,2021-22,330896d38870611c
+4525,Gemello,Torino,2021-22,731d5c16ae66afa3
+4977,Ravaglia,Sampdoria,2021-22,34f0441ba64eb708
+4981,Krapikas,Spezia,2021-22,a2174e54a86bb687
+4996,Pandur,Verona,2021-22,db03fc7ce645af52
+5304,Boer,Roma,2021-22,4a6b6692adf2a1ab
+5306,Alia,Lazio,2021-22,8585746e657f20be
+5333,Gasparini,Udinese,2021-22,c012d62dc9d4ceec
+5448,Furlan,Empoli,2021-22,6dcd68981dd6aa1e
+5502,Adamonis,Lazio,2021-22,1f67973e366b0d54
+5518,Marfella,Napoli,2021-22,f36e8ef2e63421e1
+5521,Bertinato,Venezia,2021-22,1edcc0757e788c02
+5682,Molla,Bologna,2021-22,3d94c3bf161a0d16
+5704,Russo,Salernitana,2021-22,0a72cbd38bd6a8c4
+5707,Piana,Udinese,2021-22,39f3a4707ff330ef
+5713,Neri,Venezia,2021-22,1fc690842f4645b7
+4292,Hernandez T.,Milan,2021-22,8e29a714e405d250
+392,Koulibaly,Napoli,2021-22,f19a475c1a5824e4
+581,Faraoni,Verona,2021-22,2e22a4928dd6adcf
+798,Skriniar,Inter,2021-22,b0acc4a0dd544263
+4998,Molina N.,Udinese,2021-22,9b01020f64dbf837
+286,Bonucci,Juventus,2021-22,138c691937aef694
+357,Calabria,Milan,2021-22,de471946103842ff
+4307,Romero,Atalanta,2021-22,96b0eaa2d74f7366
+4899,Singo,Torino,2021-22,1fee50ca5d782a47
+4245,Smalling,Roma,2021-22,e66385d647f17e01
+4428,De Ligt,Juventus,2021-22,82bbb3ff091b8db0
+5355,Udogie,Udinese,2021-22,b01750624e818913
+253,D'ambrosio,Inter,2021-22,2fc090439129c2b8
+2759,Criscito,Genoa,2021-22,3ac67f5e5c011e04
+4904,Mari',Udinese,2021-22,848e9d1588b14284
+5332,Bastoni S.,Spezia,2021-22,ac62c14373f7fe57
+142,Mario Rui,Napoli,2021-22,128862de4d064550
+2181,Palomino,Atalanta,2021-22,3da0bd4118eddf0c
+2180,Karsdorp,Roma,2021-22,0cb311a04569fab1
+4412,Rodrigo Becao,Udinese,2021-22,97555e74df255bf9
+5300,Hickey,Bologna,2021-22,a9637cf61828a7b9
+5675,Theate,Bologna,2021-22,d3fb032220cdaaba
+118,Radovanovic,Salernitana,2021-22,12575433bce7fcdc
+358,De Sciglio,Juventus,2021-22,5b3244ffb2f0af5a
+464,Florenzi,Milan,2021-22,21b76eb0d38e224a
+4237,Danilo,Juventus,2021-22,a95413d225237417
+4331,Ibanez,Roma,2021-22,24161c465bdf2736
+4422,Tomiyasu,Bologna,2021-22,f31e3b057ec1c33c
+4982,Erlic,Spezia,2021-22,ecac7b77a270c3ab
+706,Ansaldi,Torino,2021-22,8bba49c8831618b4
+2280,Nuytinck,Udinese,2021-22,a5f822a6e8150831
+4332,Demiral,Atalanta,2021-22,c2d469bb18eb8e2d
+4421,Augello,Sampdoria,2021-22,bacbbcf32e97793d
+5479,Ceccaroni,Venezia,2021-22,3ce9ef52ddec706b
+288,Chiellini,Juventus,2021-22,5d389eaf77ca504f
+1847,Caldara,Venezia,2021-22,d93c26f96e7ecf5a
+2016,Fazio,Salernitana,2021-22,1970c5b3bc78ceb2
+2164,Milenkovic,Fiorentina,2021-22,246cb4a0c34a5b3f
+2169,Rodriguez R.,Torino,2021-22,b3a2c86da318b2e8
+2309,Pezzella Ger.,Fiorentina,2021-22,a86fbf146697f9a1
+2784,Colley,Sampdoria,2021-22,d125afeda341d5f5
+4530,Kyriakopoulos,Sassuolo,2021-22,b908f71d0d588f5e
+4934,Lovato,Cagliari,2021-22,26f2dfabe3cd6a16
+5447,Altare,Cagliari,2021-22,a1ba67d3a4620779
+5695,Haps,Venezia,2021-22,6244d4500b24e46c
+45,Ferrari A.,Sampdoria,2021-22,75c2decbe2851694
+76,Romagnoli S.,Empoli,2021-22,dee3d2ee94d8321e
+695,Toloi,Atalanta,2021-22,de7386989822d19f
+790,Samir,Udinese,2021-22,8a018a44c3456867
+1866,Ceppitelli,Cagliari,2021-22,58efd226dc2b2a56
+1895,Ferrari G.,Sassuolo,2021-22,070c09296a0a5119
+2130,Hateboer,Atalanta,2021-22,d552b0a3e7296cda
+2141,Depaoli,Verona,2021-22,85b315d6a8969ab3
+2171,Lyanco,Torino,2021-22,6643c39d74397c86
+2614,Odriozola,Fiorentina,2021-22,e2f5d722cc527148
+2633,Kjaer,Milan,2021-22,af579ccf17de22b8
+4407,Igor,Fiorentina,2021-22,78b6854e22ab09d4
+4983,Ferrer,Spezia,2021-22,832928c1b942d14e
+5450,Stojanovic,Empoli,2021-22,81b02ea8a0216a73
+5686,Soppy,Udinese,2021-22,36ff3b759dd2a61f
+5748,Hefti,Genoa,2021-22,144e670aa258c49f
+11,Conti,Sampdoria,2021-22,146df6acefcef13a
+287,Caceres,Cagliari,2021-22,a8794afd41e807f6
+2285,Bani,Genoa,2021-22,ffa78f4d51ac0ffe
+2739,Reca,Spezia,2021-22,84904c09513b4d5c
+2746,Dijks,Bologna,2021-22,0355481cfc7989f2
+2865,Aina,Torino,2021-22,f2511ba080550d5b
+4185,Maitland-Niles,Roma,2021-22,f9835d58c68dfbdf
+4521,Muldur,Sassuolo,2021-22,8220e8801abf877c
+4719,Ampadu,Venezia,2021-22,e6a8ec3055c13ce0
+4895,Yoshida,Sampdoria,2021-22,cad53fda7dcf5941
+4979,Ayhan,Sassuolo,2021-22,b71ce52335acfdc9
+5375,Maehle,Atalanta,2021-22,23d12790c4513e1f
+5475,Amian,Spezia,2021-22,4353f740965c508c
+5693,Kiwior,Spezia,2021-22,61ee048023cb7288
+633,Fares,Torino,2021-22,1a42fab9b35ea59e
+640,Chiriches,Sassuolo,2021-22,58191a997b8474c4
+660,Gyomber,Salernitana,2021-22,1c81387c06e9bb2b
+662,Alex Sandro,Juventus,2021-22,4b10719a72083bb9
+2083,Biraschi,Genoa,2021-22,80821349f8131450
+2104,Bereszynski,Sampdoria,2021-22,a511e382884ec1d9
+2174,Venuti,Fiorentina,2021-22,f37c2df9c2016d14
+2289,Dalbert,Cagliari,2021-22,ba662a6cb4a3d85b
+2318,Rogerio,Sassuolo,2021-22,3f23722d7c3235da
+2335,Luiz Felipe,Lazio,2021-22,9695037788b86cb5
+2758,Gunter,Verona,2021-22,e2d5b9287fa8dee4
+2869,Djidji,Torino,2021-22,2155a0a0127f2107
+4329,Nikolaou,Spezia,2021-22,e78f00247129ca9b
+4426,Toljan,Sassuolo,2021-22,2a689dfdd901fead
+4775,Tuanzebe,Napoli,2021-22,d0ca31b516d12803
+4888,Sutalo,Verona,2021-22,66598fb9dc48d2e6
+4891,Soumaoro,Bologna,2021-22,283d81e32cec56ec
+4925,Carboni A.,Cagliari,2021-22,3a97c1a197b3b4c2
+5354,Ruggeri,Salernitana,2021-22,8ddeee4dc1dc47cd
+5509,Vina,Roma,2021-22,9dd2e37f8284b26f
+5677,Perez N.,Udinese,2021-22,c6f6d2ef7ca71823
+5691,Zima,Torino,2021-22,e6772fc0c9395415
+5718,Viti,Empoli,2021-22,04014d2ff752942c
+226,Izzo,Torino,2021-22,e1a853e5cb66c6b9
+259,Murillo,Sampdoria,2021-22,5f8e1015de33be00
+550,Maksimovic,Genoa,2021-22,5d6ec873a297ee9c
+630,Sala,Spezia,2021-22,9a2505d5dd7d6c91
+1868,Murru,Sampdoria,2021-22,68d24287a1263436
+2192,Bonifazi,Bologna,2021-22,5f6ddebceb4d44a8
+2312,Hristov,Spezia,2021-22,7247f20273eb6a8a
+2572,Godin,Cagliari,2021-22,892938f973e8b8c1
+4495,Kumbulla,Roma,2021-22,0044df7444266b98
+5323,Martinez Quarta,Fiorentina,2021-22,9734d3e10bdbcb07
+5365,Dragusin,Salernitana,2021-22,fa81e8a0161021a7
+5480,Ebuehi,Venezia,2021-22,c592887315ccea0e
+5484,Svoboda,Venezia,2021-22,5f2d6d60a7388542
+5804,Cacace,Empoli,2021-22,b2eb19a04db41cf6
+15,Masiello,Genoa,2021-22,9168bfc70664de70
+73,Gagliolo,Salernitana,2021-22,27d5b330547d5ca6
+144,Tonelli,Empoli,2021-22,6c4ed61c30b2403c
+261,Ranocchia,Inter,2021-22,bc35fb47fc50183d
+329,Radu,Lazio,2021-22,8cd32adbfdfb986a
+390,Ghoulam,Napoli,2021-22,e4346c0204393cff
+459,Manolas,Napoli,2021-22,8c44fc0bb8e7c8f5
+758,Mantovani,Salernitana,2021-22,3d4da0b9d0617e55
+805,Fiamozzi,Empoli,2021-22,616e4bdc6fd42461
+2116,Farago',Cagliari,2021-22,2441bb7306548c3e
+2206,Felicioli,Venezia,2021-22,0d6069a684111979
+2328,Vanheusden,Genoa,2021-22,18bd3f41f3e29356
+2453,Nastasic,Fiorentina,2021-22,03c906347813f21f
+2668,Retsos,Verona,2021-22,d2271abb6c1e6b8d
+2769,Magnani,Sampdoria,2021-22,50e256dfcbd4d7c2
+4323,Zeegelaar,Udinese,2021-22,f4165c10476afabf
+4373,Mateju,Venezia,2021-22,f9a8832b11132c1a
+4375,Terzic,Fiorentina,2021-22,7e046fdb19ae592f
+4403,Chabot,Sampdoria,2021-22,2ba8ee1b8b47d6f7
+4414,Denswil,Bologna,2021-22,6c968480a1193d82
+4494,Empereur,Verona,2021-22,9a685d0cb9ba6e37
+4881,Czyborra,Genoa,2021-22,3ebe455a8b8cead9
+4945,Calafiori,Genoa,2021-22,fdc93d97b11036fb
+4946,Frabotta,Verona,2021-22,61e9a815167334a0
+4985,Vignali,Spezia,2021-22,48fe828e4e5ec5d0
+5445,Binks,Bologna,2021-22,a479211f93f03fd1
+5456,Ferrarini,Fiorentina,2021-22,d8ced4c0908ceadd
+5461,Kamenovic,Lazio,2021-22,01eb5a1bcbac094f
+5463,Aya,Salernitana,2021-22,6ae67d87b78409cc
+5464,Bogdan,Salernitana,2021-22,0dff48f39d8b3988
+5466,Strandberg,Salernitana,2021-22,8457f9b55d5de5ff
+5482,Modolo,Venezia,2021-22,826c7f56ba9c2c1f
+5503,Kechrida,Salernitana,2021-22,5329b10a2535ec95
+5524,Serpe,Genoa,2021-22,a930370e5d96e067
+5747,Ruan,Sassuolo,2021-22,17131f977c61f935
+5764,Coppola D.,Verona,2021-22,729d288486394d77
+5793,Kasius,Bologna,2021-22,48f9c7460eaa7e13
+50,Mbaye,Bologna,2021-22,0b42d4042b5b544d
+224,De Maio,Udinese,2021-22,a2cdf13ce307fa29
+244,Ghiglione,Genoa,2021-22,3d9c547a0dc8baa3
+454,Capradossi,Spezia,2021-22,5257f14edc3f4a14
+521,Peluso,Sassuolo,2021-22,141663321f7f42dd
+551,Molinaro,Venezia,2021-22,0576741ff9732ef7
+2064,Veseli,Salernitana,2021-22,b9699d1d79ac5858
+2115,Delli Carri,Salernitana,2021-22,f8da5c5a81b5e614
+2208,Jaroszynski,Salernitana,2021-22,be7e5953942679a4
+2214,Kolarov,Inter,2021-22,bf55d6eec1e56445
+2252,Marchizza,Empoli,2021-22,398103ee70057910
+2315,Stryger Larsen,Udinese,2021-22,0f03c0140aab82aa
+2793,Opoku,Udinese,2021-22,58dc1cd5eb96a8d0
+2838,Imperiale,Empoli,2021-22,20732af09a726646
+2860,Malcuit,Napoli,2021-22,d3afcb1d67e76b5c
+4366,Armini,Lazio,2021-22,3bb9a03597f75e97
+4397,Vavro,Lazio,2021-22,246aa0272ae32eba
+4406,Tripaldelli,Cagliari,2021-22,3485b9efde63094c
+4493,Dawidowicz,Verona,2021-22,a50da1bbf5a52a93
+4519,Cetin,Verona,2021-22,cfa536bc6d8a8913
+4758,Benkovic,Udinese,2021-22,f9f45882c504b315
+4932,Ballarini,Udinese,2021-22,697c78114dc6749f
+4950,Dalle Mura,Fiorentina,2021-22,ce268bec4e44116b
+4984,Ramos,Spezia,2021-22,8fbdb4afa61657da
+4997,Ruegg,Verona,2021-22,98cef1c046b094bb
+5017,Ballo-Toure',Milan,2021-22,9c6eb32fae1ecdd1
+5316,Amione,Verona,2021-22,1a6675c3be4185fc
+5398,Reynolds,Roma,2021-22,9ef4babe9a3e71a2
+5465,Sy,Salernitana,2021-22,1d4daae77833ec89
+5473,Kaique Rocha,Sampdoria,2021-22,3e517e7f0ad9dcf8
+5483,Schnegg,Venezia,2021-22,62fe2d9a2a19b8bf
+5773,Ullmann,Venezia,2021-22,76cd522aeb3989e0
+645,Milinkovic-Savic,Lazio,2021-22,b81d576b7c14da1d
+2172,Barak,Verona,2021-22,15010db0d8298029
+704,Perisic,Inter,2021-22,ba6d0681f4ac0bb6
+2775,Ruiz,Napoli,2021-22,8a785a7b9ed08f73
+5451,Bajrami,Empoli,2021-22,2d9887f9f8c2ee48
+332,Candreva,Sampdoria,2021-22,0349f5f7801bc1b4
+335,Felipe Anderson,Lazio,2021-22,560b5203babf02dc
+376,Verdi,Salernitana,2021-22,688cc4f4855d1d7e
+1980,Aramu,Venezia,2021-22,a72724dd568d60d3
+2857,Traore' Hj.,Sassuolo,2021-22,ceb6649b13ef346b
+2085,Luis Alberto,Lazio,2021-22,e2625ead0e7cb0d8
+4449,Tonali,Milan,2021-22,535a21b8284ea3da
+150,Saponara,Fiorentina,2021-22,6386944247c1f146
+1850,Kessie',Milan,2021-22,5f8e2c455510682e
+4376,Zurkowski,Empoli,2021-22,ea0080a101518d4b
+2215,Veretout,Roma,2021-22,4da45f39063178b5
+236,Lazovic,Verona,2021-22,eb152dd8391835a1
+265,Brozovic,Inter,2021-22,d722ca6981a19fcc
+367,Bonaventura,Fiorentina,2021-22,828736aa8034df07
+467,Nainggolan,Inter,2021-22,3768eaff93b66cb3
+1972,Torreira,Fiorentina,2021-22,618ccb65e9cd4184
+4886,Pereiro,Cagliari,2021-22,478c4c0750be0eab
+1987,Jankto,Sampdoria,2021-22,9a937ba588917150
+2002,Chiesa,Juventus,2021-22,a3a0a96bd2a15797
+2009,Lukic,Torino,2021-22,3e7f3ae16fab5b25
+4825,Diaz B.,Milan,2021-22,2f1a0948d2c01be6
+302,Pereyra,Udinese,2021-22,97bfc067fcea5dde
+2744,Svanberg,Bologna,2021-22,abe838431641bb94
+2818,Bennacer,Milan,2021-22,8c592ee81f62b9bd
+4658,Ikone',Fiorentina,2021-22,cc09b7054d3abd31
+4988,Maggiore,Spezia,2021-22,af6de2bea8b48358
+5759,Oliveira,Roma,2021-22,a43f9fc96f67c191
+2065,Praet,Torino,2021-22,774f1530da9d99b0
+2432,Zakaria,Juventus,2021-22,7654ae508ade5a9c
+2833,Kulusevski,Juventus,2021-22,6ef0c61f0956a3a3
+4515,Agudelo,Spezia,2021-22,e1f23a356258d2a8
+4681,Lopez M.,Sassuolo,2021-22,819fd8cdede1ade1
+5486,Crnigoj,Venezia,2021-22,0b01628d90ce4cbb
+526,Duncan,Fiorentina,2021-22,f69bf5514fde50d7
+2414,Vidal,Inter,2021-22,5431a5ce02fa3c14
+2625,Soriano,Bologna,2021-22,dc32207c75eee5c4
+4498,Henderson L.,Empoli,2021-22,50aff0cb08437add
+4693,Amiri,Genoa,2021-22,e758bc1d17e0dc42
+5001,Miranchuk,Atalanta,2021-22,c51177fa3c54ccb2
+148,Krunic,Milan,2021-22,1cd66c3470973656
+2253,Bandinelli,Empoli,2021-22,62966f771b5f2b1c
+2778,Stulac,Empoli,2021-22,302f0a2573f07a71
+4393,Schouten,Bologna,2021-22,6eef07128842c383
+4965,Marin,Cagliari,2021-22,52d9a2cc899a8db7
+5329,Makengo,Udinese,2021-22,9b8001a4a690162c
+5719,Asllani,Empoli,2021-22,c4b1fe53ba33fb3f
+1978,Sensi,Sampdoria,2021-22,8f4f3aa22eac4b0a
+1995,Djuricic,Sassuolo,2021-22,f8ab2a5ec8c92186
+2121,Melegoni,Genoa,2021-22,585940f347bcfc75
+2144,Coulibaly M.,Salernitana,2021-22,dbfc49c1bd49a6e6
+2166,Bentancur,Juventus,2021-22,5ff37d1922595629
+2741,Pessina,Atalanta,2021-22,416e547dc3285fd5
+4377,Castrovilli,Fiorentina,2021-22,27bfe232e9cc5bd9
+4522,Amrabat,Fiorentina,2021-22,8c0a0846e9a88e9d
+2117,Kastanos,Salernitana,2021-22,6f3d2cb5c1530cae
+2392,Walace,Udinese,2021-22,7809df679365595e
+4370,Portanova,Genoa,2021-22,d12f392c195cd45a
+4415,Skov Olsen,Bologna,2021-22,85f74a72eba99b8e
+4869,Dominguez,Bologna,2021-22,1b8f9d2d1a64b744
+5287,Arslan,Udinese,2021-22,8d430d542b869d4c
+5397,Kovalenko,Spezia,2021-22,fe48b2fbeb7cbc13
+170,Badelj,Genoa,2021-22,ceae6b5c0136a786
+237,Perotti,Salernitana,2021-22,06c12d32f6a3ce44
+406,Callejon,Fiorentina,2021-22,0c816049993c1606
+2011,Miguel Veloso,Verona,2021-22,dc392e25091a777f
+2076,Rog,Cagliari,2021-22,06d499b5da810455
+4514,Nandez,Cagliari,2021-22,09ecc7adcb5304f1
+5507,Busio,Venezia,2021-22,558ddbff7450d8be
+238,Rincon,Sampdoria,2021-22,f6d7da75b7e05528
+272,Medel,Bologna,2021-22,57691a6dd9ecabc1
+2209,Lucas Leiva,Lazio,2021-22,3d189a4a580cbfbe
+4384,Jagiello,Genoa,2021-22,7c5bf7bbe352db05
+4701,Cuisance,Venezia,2021-22,682759608cf34139
+5490,Peretz,Venezia,2021-22,1f589a25b0648d38
+5499,Hongla,Verona,2021-22,0827ea5f8365dc62
+5511,Matheus Henrique,Sassuolo,2021-22,26736bc89efae47f
+5798,Bohinen,Salernitana,2021-22,b4a9f89463ce4250
+181,Vecino,Inter,2021-22,5690d67c82572452
+264,Bessa,Verona,2021-22,f527cbe2d5a2ff7c
+305,Sturaro,Genoa,2021-22,a3617c7e6b34b51f
+434,Jajalo,Udinese,2021-22,53b9a00d032e5d43
+556,Baselli,Cagliari,2021-22,f4afbd6353b875b0
+557,Benassi,Empoli,2021-22,59d27fc15a62fb8b
+2154,Vignato,Bologna,2021-22,4a3bb2f9c503213c
+2391,Ekdal,Sampdoria,2021-22,3dadf3d959ac1bc6
+2703,Adrien Silva,Sampdoria,2021-22,ae91f1ca8d18d297
+2855,Vieira,Sampdoria,2021-22,5240dbc4a6e60573
+4285,Arthur,Juventus,2021-22,615193f904a227a9
+4725,Demme,Napoli,2021-22,c27f829ac3b2d498
+5470,Schiavone,Salernitana,2021-22,f21e6751a5cb9347
+5488,Fiordilino,Venezia,2021-22,a23b8aef35019d25
+5491,Taugourdeau,Venezia,2021-22,8df4d6402f15332a
+5508,Vacca,Venezia,2021-22,c9de849384d23348
+5705,Galdames,Genoa,2021-22,7f30859465b303ff
+560,Obi,Salernitana,2021-22,5c504a8ae1716028
+2107,Kiyine,Venezia,2021-22,891d4e26ad1402bd
+2161,Haas,Empoli,2021-22,ff4dfc484a76ff95
+2825,Bourabia,Spezia,2021-22,0c46b888d1cbb26a
+4411,Agoume,Inter,2021-22,79c6232addc73d68
+4894,Haraslin,Sassuolo,2021-22,d04ab19b7ab851b6
+4978,Damsgaard,Sampdoria,2021-22,5e5934f3d8fdb3e6
+5462,Ciervo,Sassuolo,2021-22,676c04defc9d805e
+5468,Cavion,Salernitana,2021-22,cecb9b6cca6b0999
+173,Capezzi,Salernitana,2021-22,5cef2761ef6aa47e
+440,Viola,Bologna,2021-22,2f9d8b5e27798bf5
+528,Magnanelli,Sassuolo,2021-22,1ed3043a110f76f2
+600,Verre,Empoli,2021-22,ce42048032aa6b62
+644,Pulgar,Fiorentina,2021-22,8073f53b660acdf7
+2008,Linetty,Torino,2021-22,4761e933c390dba8
+2286,Crociata,Empoli,2021-22,3a3007e2e7528f2c
+2302,Behrami,Genoa,2021-22,2e3e3e15156d3c50
+2472,Ramsey,Juventus,2021-22,917af8c6f80418b8
+2639,Bakayoko,Milan,2021-22,f512f47489929536
+2692,Castillejo,Milan,2021-22,0799516be3fb4fc5
+4389,Anderson A.,Lazio,2021-22,7ddb538f8db62fdc
+4423,Hernani,Genoa,2021-22,05fc218e8f3e2eec
+4921,Askildsen,Sampdoria,2021-22,80bddfdd72d55012
+5423,Bove,Roma,2021-22,4029236bb9c72317
+5487,Heymans,Venezia,2021-22,ab4adb5a99635c93
+5492,Tessmann,Venezia,2021-22,a17c63f41ca7cb61
+5501,Sigurdsson A.,Venezia,2021-22,f0441c7d4fa581e6
+5510,Romero L.,Lazio,2021-22,96a7a997b420b66c
+5722,Nguiamba,Spezia,2021-22,58d418f84a5ab816
+58,Diawara,Roma,2021-22,abf1ac5e90b29e00
+400,Dezi,Venezia,2021-22,5a870e37bb4ad789
+470,Strootman,Cagliari,2021-22,4f7b73835094dd70
+2213,Cassata,Genoa,2021-22,60bf17be8fc70457
+2835,Kingsley,Bologna,2021-22,d763fbf7e641f036
+4327,Oliva,Cagliari,2021-22,65310e8f4ce328ed
+4501,Obiang,Sassuolo,2021-22,b505470d42b5a8a6
+4885,Villar,Roma,2021-22,4324332d860128bd
+4919,Baldursson,Bologna,2021-22,1a5bc21dd0eede17
+4935,Ladinetti,Cagliari,2021-22,be99a809d7c16b6c
+4953,Palumbo,Juventus,2021-22,de0dd840a9ce2b9c
+4975,Escalante,Lazio,2021-22,0acfea91800bde20
+4995,Segre,Torino,2021-22,2e1f80ccf1bcdd72
+5312,Leo' Sena,Spezia,2021-22,b5b687e3a4a0321a
+5346,Rojas,Bologna,2021-22,fc6fea5b0c058716
+5420,Darboe,Roma,2021-22,0c93c3bc70f99e65
+5444,Cortinovis,Atalanta,2021-22,4bb45c543614b3ef
+5452,Damiani,Empoli,2021-22,93df94c95fddc774
+5467,Boultam,Salernitana,2021-22,8eb4f21d6a453c69
+5469,Di Tacchio,Salernitana,2021-22,ef6fb14c20b6aaee
+5476,Kornvig,Spezia,2021-22,e381a0154c67757e
+5485,Bjarkason,Venezia,2021-22,1c3172529ad2da0b
+5489,Pecile,Venezia,2021-22,56b25857cb0bc121
+5516,Bianco,Fiorentina,2021-22,8886c797a00153ac
+5517,Yepes,Sampdoria,2021-22,408b6ef576740d6d
+5519,Sher,Spezia,2021-22,38209130b8cfb66d
+5684,Toure' A.,Genoa,2021-22,2894455ef49444c1
+5689,Ihattaren,Sampdoria,2021-22,302f46b96c7b9a99
+5725,Kone B.,Torino,2021-22,a39881eef4624ea5
+5789,Praszelik,Verona,2021-22,cfb7cb986947508a
+785,Immobile,Lazio,2021-22,ddc8fc074d44fbd1
+2610,Ronaldo,Juventus,2021-22,2b225155eb9153b0
+4661,Osimhen,Napoli,2021-22,7e4a0c36b0cb466b
+410,Mertens,Napoli,2021-22,0a75140e009b4057
+1958,Caprari,Verona,2021-22,97e5dd0730dc1dbd
+2119,Deulofeu,Udinese,2021-22,ac847d407b9a7595
+507,Muriel,Atalanta,2021-22,075b136d4540e876
+2544,Abraham,Roma,2021-22,1517d545cc11283e
+647,Dzeko,Inter,2021-22,cfcb04a3486dd127
+4200,Giroud,Milan,2021-22,c8c93c5f1e74d350
+4268,Arnautovic,Bologna,2021-22,b6e71e90b8516fb2
+409,Insigne,Napoli,2021-22,fcd73b935320cb3c
+1874,Joao Pedro,Cagliari,2021-22,093c27f06519c362
+215,Verde,Spezia,2021-22,2030abee0fb9718b
+472,Destro,Genoa,2021-22,0df7fa84fe561dd6
+2530,Ibrahimovic,Milan,2021-22,7603b22b84c8de50
+4179,Gonzalez N.,Fiorentina,2021-22,7f6b9aec0c151cd5
+2719,Barrow,Bologna,2021-22,862c0e6f169bc908
+4184,Brekalo,Torino,2021-22,174805d25f7672a9
+2819,Caputo,Sampdoria,2021-22,ae6798af508ae6ad
+5694,Beto,Udinese,2021-22,df40bb87c05b8fc3
+5786,Cabral,Fiorentina,2021-22,5ee69905c17b5eac
+495,Correa,Inter,2021-22,29b502e872f1e57b
+4517,Lozano,Napoli,2021-22,bfd43f94534d85ba
+5676,Success,Udinese,2021-22,53a5687cb26dc41f
+2475,Sanchez,Inter,2021-22,fca997c4fc69aaa6
+1857,Di Francesco F.,Empoli,2021-22,9d8db9fb9116e25a
+5529,Henry,Venezia,2021-22,3eca10f30041813f
+407,Gabbiadini,Sampdoria,2021-22,369b25bd618b45f8
+652,Kalinic,Verona,2021-22,a187374398728370
+5311,Shomurodov,Roma,2021-22,5e6067c76ace5918
+177,Ilicic,Atalanta,2021-22,9b4c4973bab91d42
+186,Rebic,Milan,2021-22,5e7c2154ad0f84be
+5292,Lammers,Atalanta,2021-22,5bb91ca4cb32e23e
+568,Quagliarella,Sampdoria,2021-22,401f399bc3d0eeea
+2756,Piatek,Fiorentina,2021-22,57c88a0ae43cebcc
+2826,Pussetto,Udinese,2021-22,bb4bf5c077d3accd
+4324,Okaka,Udinese,2021-22,c2b2507216dc877f
+90,Lasagna,Verona,2021-22,cf6bcb5c21a4b1a6
+4477,La Mantia,Empoli,2021-22,adb5edaaac45f4df
+383,Petagna,Napoli,2021-22,a77df71149e1e770
+649,Manaj,Spezia,2021-22,af18d8a65a465d08
+1998,Pjaca,Torino,2021-22,e956f3db74e3ac43
+4992,Gyasi,Spezia,2021-22,6ed667b3e209e3d8
+5797,Nsame,Venezia,2021-22,981e8dd51e759dfc
+311,Llorente,Udinese,2021-22,53575d2f29f36e25
+345,Keita B.,Cagliari,2021-22,92e80b972d0090cb
+643,Defrel,Sassuolo,2021-22,bcf802d3ddad9de7
+2155,Cutrone,Empoli,2021-22,1c9c490e38abeba8
+2409,Ribery,Salernitana,2021-22,266701d9a10ce551
+5755,Yeboah,Genoa,2021-22,f41e1e7980297872
+537,Sansone,Bologna,2021-22,fede0fda53fad02c
+1997,Simy,Salernitana,2021-22,b34f077d3d80a724
+2284,Caicedo,Inter,2021-22,5a40a8ea4d1ad58d
+2323,Nani,Venezia,2021-22,0501280037c4ae53
+4507,Tutino,Napoli,2021-22,291791ded94ed957
+5714,Gondo,Salernitana,2021-22,591fc7c3f020c800
+5796,Supryaga,Sampdoria,2021-22,cda06a985540eddd
+5801,Mousset,Salernitana,2021-22,dc3c652d5563ad04
+475,Iago Falque,Torino,2021-22,c95cb7469f7f6a45
+1943,Nestorovski,Udinese,2021-22,8b8475054e393dce
+2762,Kouame',Fiorentina,2021-22,ad17bd0dfcfbba43
+5004,Forestieri,Udinese,2021-22,e348d7636859719d
+5496,Johnsen,Venezia,2021-22,a118e71f3692279b
+5807,Jovane,Lazio,2021-22,d66a069b4f140e3c
+245,Pandev,Genoa,2021-22,3414e82b1255c9bf
+2103,Pellegri,Torino,2021-22,48a8d335a6724f54
+4884,Carles Perez,Roma,2021-22,a5111aee5647fba5
+5454,Mancuso,Empoli,2021-22,69abaf88beafd1c4
+5808,Giovinco,Sampdoria,2021-22,02729c3dc958de07
+5233,Mayoral,Roma,2021-22,83630e4e1fbf4b91
+5310,Hauge,Milan,2021-22,857c02f5405b848f
+5322,Mihaila,Atalanta,2021-22,cc2379263ab8ba9e
+5494,Di Mariano,Venezia,2021-22,5414b60a6b31529f
+5523,Bianchi F.,Genoa,2021-22,46eb3456a990c5b0
+5673,Antiste,Spezia,2021-22,28739bb60edb42c3
+5802,Mikael,Salernitana,2021-22,db0bc01cafdcc5ad
+306,Cerri,Cagliari,2021-22,d8fa589cb7d1f2a0
+447,La Gumina,Sampdoria,2021-22,e40874ecfa5e48bc
+5495,Forte,Venezia,2021-22,ec54517f0f11693e
+5728,Afena-Gyan,Roma,2021-22,0bcc9a40cb702787
+819,Favilli,Genoa,2021-22,a0025a5cac3b130c
+1879,Farias,Cagliari,2021-22,4c226b3d11177daa
+4346,Millico,Torino,2021-22,760737345d45adc0
+4430,Cristo,Udinese,2021-22,a8d6d366a4603941
+4500,Di Carmine,Verona,2021-22,f1de8a6372d894bb
+315,Zaza,Torino,2021-22,01b7e97747035b79
+2195,Ounas,Napoli,2021-22,be9d15c6e047e75d
+2304,Salcedo E.,Spezia,2021-22,52bf7e8df360381b
+2743,Santander,Bologna,2021-22,263594ba73ade3fa
+2750,Mraz,Spezia,2021-22,cdb365f68ceade1f
+5060,Ake' M.,Juventus,2021-22,3d065ac1637d922b
+5360,Vergani,Salernitana,2021-22,3d43f8873a6c3c2c
+5439,Kallon,Genoa,2021-22,ef3e56dc9c292c20
+5460,Satriano,Inter,2021-22,d6003e972254ea94
+5477,Warming,Torino,2021-22,5ad45d051421945c
+5525,Galazzi,Venezia,2021-22,b2c7d0c03188b6f5
+5690,Strelec,Spezia,2021-22,8c0ddd8d92c82f9a
+5716,Podgoreanu,Spezia,2021-22,a664efddb16c48ee
+5776,Ceide,Sassuolo,2021-22,bbe3efff087c5b59
+5806,Seck,Torino,2021-22,8b7710b6e02b30ac
+5814,Cisse',Atalanta,2021-22,cc1dcc5ffd833554
+532,Falcinelli,Bologna,2021-22,da6e12460f022df6
+1839,Edera,Torino,2021-22,909458e03ce561ad
+2073,Ragusa,Verona,2021-22,41be8664fb7628e2
+2654,Ceter,Cagliari,2021-22,2ae4b3c4cd5b78e9
+4435,Colley E.,Spezia,2021-22,e73f92a09a576f73
+4453,Torregrossa,Sampdoria,2021-22,080bd3fc683c9a5d
+4483,Cangiano,Bologna,2021-22,032f710aba52347e
+4936,Manzari,Sassuolo,2021-22,8b50be8db033bf5b
+4938,Moro,Lazio,2021-22,e4278d4e4339eaa0
+4940,Gagliano,Cagliari,2021-22,ed663fcd5591aeeb
+5012,Muriqi,Lazio,2021-22,2fa1fec54c0a05a3
+5378,Oddei,Sassuolo,2021-22,6efd32bf43e1747c
+5391,Kokorin,Fiorentina,2021-22,fcc192170e91c5a2
+5446,Van Hooijdonk,Bologna,2021-22,c86439478be42919
+5458,Munteanu,Fiorentina,2021-22,a14a52168bf53232
+5459,Buksa,Genoa,2021-22,ee8e51fdd7a79617
+5472,Kristoffersen,Salernitana,2021-22,ab1628ed495344a0
+5493,Bocalon,Venezia,2021-22,30463b5fcd8422fe
+5505,Kaio Jorge,Juventus,2021-22,7b48c04b58803e93
+5512,De Luca,Sampdoria,2021-22,d6d1320693eeb6a9
+5785,Lazetic,Milan,2021-22,c854745cecd6e439
+4964,Vicario,Empoli,2022-23,0b5287af594abfbe
+453,Szczesny,Juventus,2022-23,0034e9f88d4196fd
+4270,Rui Patricio,Roma,2022-23,4877f67f8857e4d0
+5830,Onana,Inter,2022-23,9fb94272bbdc945f
+1917,Dragowski,Spezia,2022-23,3ece324229f2ecde
+6120,Ochoa,Salernitana,2022-23,2f99e1e819cacac3
+2294,Cerofolini,Fiorentina,2022-23,96586d7181f9f29c
+2792,Musso,Atalanta,2022-23,3b761fb1b36efb22
+159,Sepe,Salernitana,2022-23,295fdef1c0c6b084
+250,Handanovic,Inter,2022-23,5da3be5d6420de71
+509,Consigli,Sassuolo,2022-23,9f3e0708237ab4b8
+673,Perisan,Empoli,2022-23,962ab3b948c41cb5
+160,Tatarusanu,Milan,2022-23,46429a718ee1938f
+1889,Cordaz,Inter,2022-23,03736049b350ae68
+5005,Zoet,Spezia,2022-23,9a4b7f1de0fdc401
+1843,Radu I.,Cremonese,2022-23,18050c218e0ef117
+42,Sarr M.,Cremonese,2022-23,0b7d703612ba5727
+510,Pegolo,Sassuolo,2022-23,ee5839e91451b94f
+4977,Ravaglia,Sampdoria,2022-23,34f0441ba64eb708
+6135,Turk,Sampdoria,2022-23,01786cd22e6c8a15
+41,Mirante,Milan,2022-23,563f623b98b5f9db
+217,Lamanna,Monza,2022-23,04696cedcf06d887
+220,Ujkani,Empoli,2022-23,13f9e4ee1fe84737
+316,Berisha,Torino,2022-23,4bb5b73295a81c7b
+318,Marchetti,Spezia,2022-23,7e78aae817707d72
+799,Bardi,Bologna,2022-23,f762270eeaf4f576
+1947,Fiorillo,Salernitana,2022-23,15449a58a13575d5
+2178,Cragno,Monza,2022-23,15b211f58f8d9ced
+2179,Sirigu,Fiorentina,2022-23,4ae3482e584bba2d
+2790,Rosati,Fiorentina,2022-23,5be9ca40bd57b07c
+4351,Brancolini,Lecce,2022-23,3ce51b07f905176a
+4468,Bleve,Lecce,2022-23,b26a6904b137ae50
+4491,Berardi A.,Verona,2022-23,330896d38870611c
+4518,Russo A.,Sassuolo,2022-23,c828035a38f6291d
+4525,Gemello,Torino,2022-23,731d5c16ae66afa3
+5304,Boer,Roma,2022-23,4a6b6692adf2a1ab
+5333,Gasparini,Udinese,2022-23,c012d62dc9d4ceec
+5448,Furlan,Empoli,2022-23,6dcd68981dd6aa1e
+5502,Adamonis,Lazio,2022-23,1f67973e366b0d54
+5518,Marfella,Napoli,2022-23,f36e8ef2e63421e1
+5528,Zovko,Spezia,2022-23,3e6ff8bbc1a00907
+5682,Molla,Bologna,2022-23,3d94c3bf161a0d16
+5704,Russo,Salernitana,2022-23,0a72cbd38bd6a8c4
+5707,Piana,Udinese,2022-23,39f3a4707ff330ef
+5822,Bagnolini,Bologna,2022-23,a66562b7c7c75c40
+5832,Luis Maximiano,Lazio,2022-23,1c6128765bf235f5
+5853,Sorrentino A.,Monza,2022-23,8064f1289b8324a3
+5887,Ciezkowski,Cremonese,2022-23,e8f4e22886d76928
+5889,Micai,Salernitana,2022-23,d33b30831d59846e
+5890,Chiesa M.,Verona,2022-23,2139f29dbc9af435
+6029,Saro,Cremonese,2022-23,d3251c368eb1075d
+6125,Vasquez D.,Milan,2022-23,e5827a73ebc53caa
+6184,Martinelli T.,Fiorentina,2022-23,f1c061929c21a630
+6066,Posch,Bologna,2022-23,8785ce27b627e070
+4237,Danilo,Juventus,2022-23,a95413d225237417
+4245,Smalling,Roma,2022-23,e66385d647f17e01
+4998,Molina N.,Udinese,2022-23,9b01020f64dbf837
+5892,Kim,Napoli,2022-23,a6312121e15caec7
+4292,Hernandez T.,Milan,2022-23,8e29a714e405d250
+5355,Udogie,Udinese,2022-23,b01750624e818913
+5480,Ebuehi,Empoli,2022-23,c592887315ccea0e
+6041,Schuurs,Torino,2022-23,099744456ec1bb1f
+695,Toloi,Atalanta,2022-23,de7386989822d19f
+2141,Depaoli,Verona,2022-23,85b315d6a8969ab3
+4421,Augello,Sampdoria,2022-23,bacbbcf32e97793d
+5332,Bastoni S.,Spezia,2022-23,ac62c14373f7fe57
+5375,Maehle,Atalanta,2022-23,23d12790c4513e1f
+5675,Theate,Bologna,2022-23,d3fb032220cdaaba
+5677,Perez N.,Udinese,2022-23,c6f6d2ef7ca71823
+5847,Bijol,Udinese,2022-23,df192ffd6d31ea60
+142,Mario Rui,Napoli,2022-23,128862de4d064550
+581,Faraoni,Verona,2022-23,2e22a4928dd6adcf
+2164,Milenkovic,Fiorentina,2022-23,246cb4a0c34a5b3f
+2169,Rodriguez R.,Torino,2022-23,b3a2c86da318b2e8
+2739,Reca,Spezia,2022-23,84904c09513b4d5c
+4530,Kyriakopoulos,Bologna,2022-23,b908f71d0d588f5e
+4899,Singo,Torino,2022-23,1fee50ca5d782a47
+4904,Mari',Monza,2022-23,848e9d1588b14284
+49,Masina,Udinese,2022-23,ef0ea88b4fcb6f2e
+226,Izzo,Monza,2022-23,e1a853e5cb66c6b9
+357,Calabria,Milan,2022-23,de471946103842ff
+798,Skriniar,Inter,2022-23,b0acc4a0dd544263
+2847,Sernicola,Cremonese,2022-23,c4dfe0e3b19a1afa
+4375,Terzic,Fiorentina,2022-23,7e046fdb19ae592f
+4412,Rodrigo Becao,Udinese,2022-23,97555e74df255bf9
+4897,Pirola,Salernitana,2022-23,9adbe223731f210e
+4958,Caldirola,Monza,2022-23,04e44ea4eb0dfc83
+286,Bonucci,Juventus,2022-23,138c691937aef694
+2869,Djidji,Torino,2022-23,2155a0a0127f2107
+4331,Ibanez,Roma,2022-23,24161c465bdf2736
+5239,Llorente D.,Roma,2022-23,6261aa4e8e56f571
+5323,Martinez Quarta,Fiorentina,2022-23,9734d3e10bdbcb07
+5693,Kiwior,Spezia,2022-23,61ee048023cb7288
+5867,Gendrey,Lecce,2022-23,f943d784324d559f
+660,Gyomber,Salernitana,2022-23,1c81387c06e9bb2b
+2318,Rogerio,Sassuolo,2022-23,3f23722d7c3235da
+2583,Umtiti,Lecce,2022-23,3cf683ad112f2f0d
+2870,Troost-Ekong,Salernitana,2022-23,e81d41cbd6b50365
+4329,Nikolaou,Spezia,2022-23,e78f00247129ca9b
+4332,Demiral,Atalanta,2022-23,c2d469bb18eb8e2d
+4719,Ampadu,Spezia,2022-23,e6a8ec3055c13ce0
+5718,Viti,Empoli,2022-23,04014d2ff752942c
+6027,Lochoshvili,Cremonese,2022-23,163dc64ba99e6d41
+6055,Thiaw,Milan,2022-23,d7030d4bcdadf11a
+253,D'ambrosio,Inter,2022-23,2fc090439129c2b8
+272,Medel,Bologna,2022-23,57691a6dd9ecabc1
+1895,Ferrari G.,Sassuolo,2022-23,070c09296a0a5119
+2784,Colley,Sampdoria,2022-23,d125afeda341d5f5
+2865,Aina,Torino,2022-23,f2511ba080550d5b
+4426,Toljan,Sassuolo,2022-23,2a689dfdd901fead
+4891,Soumaoro,Bologna,2022-23,283d81e32cec56ec
+5017,Ballo-Toure',Milan,2022-23,9c6eb32fae1ecdd1
+5316,Amione,Sampdoria,2022-23,1a6675c3be4185fc
+5838,Birindelli,Monza,2022-23,a3d252b520611423
+5848,Ebosele,Udinese,2022-23,f124d514310d9f93
+5856,Sambia,Salernitana,2022-23,62de729f4c5dbdca
+45,Ferrari A.,Cremonese,2022-23,75c2decbe2851694
+261,Ranocchia,Monza,2022-23,bc35fb47fc50183d
+640,Chiriches,Cremonese,2022-23,58191a997b8474c4
+729,Pereira P.,Monza,2022-23,45de068f631f9a44
+2181,Palomino,Atalanta,2022-23,3da0bd4118eddf0c
+2192,Bonifazi,Bologna,2022-23,5f6ddebceb4d44a8
+2280,Nuytinck,Sampdoria,2022-23,a5f822a6e8150831
+2758,Gunter,Sampdoria,2022-23,e2d5b9287fa8dee4
+2769,Magnani,Verona,2022-23,50e256dfcbd4d7c2
+4323,Zeegelaar,Udinese,2022-23,f4165c10476afabf
+4407,Igor,Fiorentina,2022-23,78b6854e22ab09d4
+4493,Dawidowicz,Verona,2022-23,a50da1bbf5a52a93
+5450,Stojanovic,Empoli,2022-23,81b02ea8a0216a73
+5475,Amian,Spezia,2022-23,4353f740965c508c
+5554,Daniliuc,Salernitana,2022-23,29798e8affc72dec
+5793,Kasius,Bologna,2022-23,48f9c7460eaa7e13
+6002,Aiwu,Cremonese,2022-23,2fb46b563c613bd6
+6153,Wisniewski,Spezia,2022-23,bad2d11fbd3c2d66
+244,Ghiglione,Cremonese,2022-23,3d9c547a0dc8baa3
+358,De Sciglio,Juventus,2022-23,5b3244ffb2f0af5a
+662,Alex Sandro,Juventus,2022-23,4b10719a72083bb9
+1868,Murru,Sampdoria,2022-23,68d24287a1263436
+1898,Sampirisi,Monza,2022-23,0c6e37e3d7447905
+2104,Bereszynski,Napoli,2022-23,a511e382884ec1d9
+2130,Hateboer,Atalanta,2022-23,d552b0a3e7296cda
+2174,Venuti,Fiorentina,2022-23,f37c2df9c2016d14
+2184,Gravillon,Torino,2022-23,a9a47b0c665e982a
+2300,Leverbe,Sampdoria,2022-23,f32ccb32a007ca7a
+2312,Hristov,Spezia,2022-23,7247f20273eb6a8a
+2355,Marlon,Monza,2022-23,e2981b460eaa64b3
+2633,Kjaer,Milan,2022-23,af579ccf17de22b8
+4432,Okoli,Atalanta,2022-23,0fe16012cec87ea2
+4758,Benkovic,Udinese,2022-23,f9f45882c504b315
+4934,Lovato,Salernitana,2022-23,26f2dfabe3cd6a16
+4946,Frabotta,Lecce,2022-23,61e9a815167334a0
+4979,Ayhan,Sassuolo,2022-23,b71ce52335acfdc9
+4982,Erlic,Sassuolo,2022-23,ecac7b77a270c3ab
+5479,Ceccaroni,Lecce,2022-23,3ce9ef52ddec706b
+5764,Coppola D.,Verona,2022-23,729d288486394d77
+5804,Cacace,Empoli,2022-23,b2eb19a04db41cf6
+5860,Ravanelli,Cremonese,2022-23,2c8374888fd28f6c
+5891,Quagliata,Cremonese,2022-23,318f1fc1a868d204
+6021,Abankwah,Udinese,2022-23,49ad9c596d98580b
+6023,Guessand A.,Udinese,2022-23,6ed82348a86f8829
+52,Oikonomou,Sampdoria,2022-23,87cbb38ca5f11384
+73,Gagliolo,Salernitana,2022-23,27d5b330547d5ca6
+118,Radovanovic,Salernitana,2022-23,12575433bce7fcdc
+139,Dermaku,Lecce,2022-23,4dbf1287894c7766
+144,Tonelli,Empoli,2022-23,6c4ed61c30b2403c
+259,Murillo,Sampdoria,2022-23,5f8e1015de33be00
+2016,Fazio,Salernitana,2022-23,1970c5b3bc78ceb2
+2180,Karsdorp,Roma,2022-23,0cb311a04569fab1
+2252,Marchizza,Sassuolo,2022-23,398103ee70057910
+2446,Donati,Monza,2022-23,e92058bf0260a061
+2668,Retsos,Verona,2022-23,d2271abb6c1e6b8d
+2746,Dijks,Bologna,2022-23,0355481cfc7989f2
+4960,Tuia,Lecce,2022-23,3be8f8e5b7202335
+4983,Ferrer,Spezia,2022-23,832928c1b942d14e
+5313,Dest,Milan,2022-23,4e0b5af978c4ca16
+5354,Ruggeri,Atalanta,2022-23,8ddeee4dc1dc47cd
+5399,Antov,Monza,2022-23,3ec37909bc3e5187
+5686,Soppy,Atalanta,2022-23,36ff3b759dd2a61f
+5747,Tressoldi,Sassuolo,2022-23,675e620cca6384f6
+5846,Bayeye,Torino,2022-23,47f7c47c25fe879e
+6028,Bronn,Salernitana,2022-23,0b9efee25e24bdd2
+6064,Hendry,Cremonese,2022-23,10a0baa0ce2fdb13
+11,Conti,Sampdoria,2022-23,146df6acefcef13a
+50,Mbaye,Bologna,2022-23,0b42d4042b5b544d
+76,Romagnoli S.,Lecce,2022-23,dee3d2ee94d8321e
+84,Marrone,Monza,2022-23,0c5f50ed4a16110e
+329,Radu,Lazio,2022-23,8cd32adbfdfb986a
+360,Paletta,Monza,2022-23,4a94c8d30b67d624
+454,Capradossi,Spezia,2022-23,5257f14edc3f4a14
+464,Florenzi,Milan,2022-23,21b76eb0d38e224a
+630,Sala,Spezia,2022-23,9a2505d5dd7d6c91
+633,Fares,Lazio,2022-23,1a42fab9b35ea59e
+1847,Caldara,Spezia,2022-23,d93c26f96e7ecf5a
+2064,Veseli,Salernitana,2022-23,b9699d1d79ac5858
+2208,Jaroszynski,Salernitana,2022-23,be7e5953942679a4
+2453,Nastasic,Fiorentina,2022-23,03c906347813f21f
+2737,Bettella,Monza,2022-23,72c28e3a9f15359b
+4438,Cassandro,Lecce,2022-23,96b24ee2a604e791
+4495,Kumbulla,Roma,2022-23,0044df7444266b98
+4519,Cetin,Lecce,2022-23,cfa536bc6d8a8913
+4521,Muldur,Sassuolo,2022-23,8220e8801abf877c
+4925,Carboni A.,Monza,2022-23,3a97c1a197b3b4c2
+4945,Calafiori,Roma,2022-23,fdc93d97b11036fb
+4985,Vignali,Spezia,2022-23,48fe828e4e5ec5d0
+5424,Amey,Bologna,2022-23,da7906a92518c92e
+5456,Ferrarini,Monza,2022-23,d8ced4c0908ceadd
+5461,Kamenovic,Lazio,2022-23,01eb5a1bcbac094f
+5503,Kechrida,Salernitana,2022-23,5329b10a2535ec95
+5509,Vina,Roma,2022-23,9dd2e37f8284b26f
+5691,Zima,Torino,2022-23,e6772fc0c9395415
+5740,Zanotti,Inter,2022-23,4191c9551abd6256
+5762,Motoc,Salernitana,2022-23,edfe9f67af6e0189
+5849,Buta,Udinese,2022-23,ca17366bd08fb89c
+5859,Ndiaye,Cremonese,2022-23,c4eea8b5dfe3b365
+5861,Fiordaliso,Cremonese,2022-23,79a183051a3428d4
+6043,Sosa,Bologna,2022-23,959d3d631fb6f17f
+6056,Guarino,Empoli,2022-23,cb43be0bf000dc64
+6118,Moutinho J.,Spezia,2022-23,4c6f0bbd7da966cb
+6139,Zeefuik,Verona,2022-23,755ee7d3e2f17bcb
+5839,Kvaratskhelia,Napoli,2022-23,83a6c11e6c159473
+645,Milinkovic-Savic,Lazio,2022-23,b81d576b7c14da1d
+335,Felipe Anderson,Lazio,2022-23,560b5203babf02dc
+2085,Luis Alberto,Lazio,2022-23,e2625ead0e7cb0d8
+302,Pereyra,Udinese,2022-23,97bfc067fcea5dde
+332,Candreva,Salernitana,2022-23,0349f5f7801bc1b4
+4825,Diaz B.,Milan,2022-23,2f1a0948d2c01be6
+5001,Miranchuk,Torino,2022-23,c51177fa3c54ccb2
+5880,Ciurria,Monza,2022-23,6e0483eba26bc0d3
+236,Lazovic,Verona,2022-23,eb152dd8391835a1
+2775,Ruiz,Napoli,2022-23,8a785a7b9ed08f73
+367,Bonaventura,Fiorentina,2022-23,828736aa8034df07
+2741,Pessina,Monza,2022-23,416e547dc3285fd5
+4449,Tonali,Milan,2022-23,535a21b8284ea3da
+265,Brozovic,Inter,2022-23,d722ca6981a19fcc
+376,Verdi,Verona,2022-23,688cc4f4855d1d7e
+2002,Chiesa,Juventus,2022-23,a3a0a96bd2a15797
+5878,Colpani,Monza,2022-23,87d11d63bdd3b014
+2638,Wijnaldum,Roma,2022-23,601c80c601117047
+2818,Bennacer,Milan,2022-23,8c592ee81f62b9bd
+4658,Ikone',Fiorentina,2022-23,cc09b7054d3abd31
+4869,Dominguez,Bologna,2022-23,1b8f9d2d1a64b744
+4978,Damsgaard,Sampdoria,2022-23,5e5934f3d8fdb3e6
+5063,Radonjic,Torino,2022-23,4599ca604ee10084
+150,Saponara,Fiorentina,2022-23,6386944247c1f146
+303,Pogba,Juventus,2022-23,50ba71a159de8455
+2009,Lukic,Torino,2022-23,3e7f3ae16fab5b25
+5511,Matheus Henrique,Sassuolo,2022-23,26736bc89efae47f
+1978,Sensi,Monza,2022-23,8f4f3aa22eac4b0a
+2172,Barak,Fiorentina,2022-23,15010db0d8298029
+2215,Veretout,Roma,2022-23,4da45f39063178b5
+6061,Oudin,Lecce,2022-23,b7fd45c3d75a1ede
+2117,Kastanos,Salernitana,2022-23,6f3d2cb5c1530cae
+2432,Zakaria,Juventus,2022-23,7654ae508ade5a9c
+4377,Castrovilli,Fiorentina,2022-23,27bfe232e9cc5bd9
+4965,Marin,Empoli,2022-23,52d9a2cc899a8db7
+5451,Bajrami,Sassuolo,2022-23,2d9887f9f8c2ee48
+5870,Hjulmand,Lecce,2022-23,9e9ad84a12b2a2ab
+6025,Vilhena,Salernitana,2022-23,81b377b9e0d817b5
+181,Vecino,Lazio,2022-23,5690d67c82572452
+2825,Bourabia,Spezia,2022-23,0c46b888d1cbb26a
+2857,Traore' Hj.,Sassuolo,2022-23,ceb6649b13ef346b
+5423,Bove,Roma,2022-23,4029236bb9c72317
+2253,Bandinelli,Empoli,2022-23,62966f771b5f2b1c
+2392,Walace,Udinese,2022-23,7809df679365595e
+2625,Soriano,Bologna,2022-23,dc32207c75eee5c4
+4393,Schouten,Bologna,2022-23,6eef07128842c383
+4515,Agudelo,Spezia,2022-23,e1f23a356258d2a8
+5329,Makengo,Udinese,2022-23,9b8001a4a690162c
+5869,Blin,Lecce,2022-23,3e6f4b0cc270842c
+526,Duncan,Fiorentina,2022-23,f69bf5514fde50d7
+2008,Linetty,Torino,2022-23,4761e933c390dba8
+2144,Coulibaly M.,Salernitana,2022-23,dbfc49c1bd49a6e6
+2778,Stulac,Empoli,2022-23,302f0a2573f07a71
+4178,Ascacibar,Cremonese,2022-23,900bb5cd98dc2939
+4992,Gyasi,Spezia,2022-23,6ed667b3e209e3d8
+5287,Arslan,Udinese,2022-23,8d430d542b869d4c
+5705,Galdames,Cremonese,2022-23,7f30859465b303ff
+5863,Castagnetti,Cremonese,2022-23,6b54dfa6d237a1eb
+5999,Gonzalez J.,Lecce,2022-23,cf99899bce2ab5c6
+148,Krunic,Milan,2022-23,1cd66c3470973656
+2161,Haas,Empoli,2022-23,ff4dfc484a76ff95
+2391,Ekdal,Spezia,2022-23,3dadf3d959ac1bc6
+2789,Meite',Cremonese,2022-23,0558736bb2202651
+4342,Duda,Verona,2022-23,6877183ad442b247
+4408,Esposito Sa.,Spezia,2022-23,dfc0e10a44023476
+4681,Lopez M.,Sassuolo,2022-23,819fd8cdede1ade1
+5798,Bohinen,Salernitana,2022-23,b4a9f89463ce4250
+5834,Marcos Antonio,Lazio,2022-23,87ece02005c73c0f
+5884,Ranocchia F.,Monza,2022-23,86c9b140872dd90a
+6033,Normann,Lecce,2022-23,c71a49b9f3565069
+468,Paredes,Juventus,2022-23,b1fc0d62e35b7e6a
+557,Benassi,Cremonese,2022-23,59d27fc15a62fb8b
+666,Machin,Monza,2022-23,89fc2e196c3516c5
+2154,Vignato,Empoli,2022-23,4a3bb2f9c503213c
+4260,Winks,Sampdoria,2022-23,829ca79e9b5f57ce
+4522,Amrabat,Fiorentina,2022-23,8c0a0846e9a88e9d
+5879,Vignato S.,Monza,2022-23,125ed8ec520745ea
+238,Rincon,Sampdoria,2022-23,f6d7da75b7e05528
+600,Verre,Sampdoria,2022-23,ce42048032aa6b62
+1995,Djuricic,Sampdoria,2022-23,f8ab2a5ec8c92186
+4143,Ndombele',Napoli,2022-23,3da06e77d344ba53
+4285,Arthur Melo,Juventus,2022-23,fce09a66656dfdee
+4475,Majer,Lecce,2022-23,eaecda417a54c403
+4498,Henderson L.,Empoli,2022-23,50aff0cb08437add
+4701,Cuisance,Sampdoria,2022-23,682759608cf34139
+4884,Carles Perez,Roma,2022-23,a5111aee5647fba5
+4885,Villar,Sampdoria,2022-23,4324332d860128bd
+5776,Ceide,Sassuolo,2022-23,bbe3efff087c5b59
+5857,Pickel,Cremonese,2022-23,238a5f483c065659
+5886,Bistrovic,Lecce,2022-23,cf853b6a54583a25
+6117,Tahirovic,Roma,2022-23,c1ada98bf2dd9cab
+2011,Miguel Veloso,Verona,2022-23,dc392e25091a777f
+4376,Zurkowski,Spezia,2022-23,ea0080a101518d4b
+4501,Obiang,Sassuolo,2022-23,b505470d42b5a8a6
+4921,Askildsen,Lecce,2022-23,80bddfdd72d55012
+4975,Escalante,Cremonese,2022-23,0acfea91800bde20
+5397,Kovalenko,Spezia,2022-23,fe48b2fbeb7cbc13
+5486,Crnigoj,Salernitana,2022-23,0b01628d90ce4cbb
+5772,Pyyhtia,Bologna,2022-23,65457df26f724d52
+6058,Camara Ma.,Roma,2022-23,634471ebc1cd6a61
+6162,Abildgaard,Verona,2022-23,82eece402609f4ca
+434,Jajalo,Udinese,2022-23,53b9a00d032e5d43
+2274,Valoti,Monza,2022-23,55bef1bd634004a8
+2639,Bakayoko,Milan,2022-23,f512f47489929536
+4988,Maggiore,Salernitana,2022-23,af6de2bea8b48358
+5719,Asllani,Inter,2022-23,c4b1fe53ba33fb3f
+6131,Paoletti,Sampdoria,2022-23,4bed1185ba01e6a9
+6142,Cipot,Spezia,2022-23,057d3510702e55bc
+6157,Malagrida,Sampdoria,2022-23,afa5ababdb017471
+21,D'alessandro,Monza,2022-23,9dfdef7bac0b4acb
+58,Diawara,Roma,2022-23,abf1ac5e90b29e00
+173,Capezzi,Salernitana,2022-23,5cef2761ef6aa47e
+694,Baez,Cremonese,2022-23,2a141d810954fa23
+1851,Molina S.,Monza,2022-23,e510d6f973aa405b
+1901,Barberis,Monza,2022-23,ac32a2f865690959
+2286,Crociata,Empoli,2022-23,3a3007e2e7528f2c
+2742,Valzania,Cremonese,2022-23,da57c5911b32a046
+2804,Scozzarella,Monza,2022-23,5f3a1eb8087bbcd7
+2835,Kingsley,Bologna,2022-23,d763fbf7e641f036
+2855,Vieira,Torino,2022-23,5240dbc4a6e60573
+4411,Agoume,Inter,2022-23,79c6232addc73d68
+4725,Demme,Napoli,2022-23,c27f829ac3b2d498
+4943,Horvath,Torino,2022-23,ac4fb04cc7fb8c13
+4987,Bartolomei,Cremonese,2022-23,8d65edd88dde5c94
+5312,Leo' Sena,Spezia,2022-23,b5b687e3a4a0321a
+5420,Darboe,Roma,2022-23,0c93c3bc70f99e65
+5425,Urbanski,Bologna,2022-23,f19ec02393c62f09
+5442,Bertini,Lazio,2022-23,8b812981439ec090
+5444,Cortinovis,Verona,2022-23,4bb45c543614b3ef
+5468,Cavion,Salernitana,2022-23,cecb9b6cca6b0999
+5476,Kornvig,Spezia,2022-23,e381a0154c67757e
+5499,Hongla,Verona,2022-23,0827ea5f8365dc62
+5510,Romero L.,Lazio,2022-23,96a7a997b420b66c
+5516,Bianco,Fiorentina,2022-23,8886c797a00153ac
+5517,Yepes,Sampdoria,2022-23,408b6ef576740d6d
+5519,Sher,Spezia,2022-23,38209130b8cfb66d
+5722,Nguiamba,Spezia,2022-23,58d418f84a5ab816
+5789,Praszelik,Verona,2022-23,cfb7cb986947508a
+5810,Trimboli,Sampdoria,2022-23,7f0f239d05e8de98
+5824,Pafundi,Udinese,2022-23,f7e09c2bf5d8a474
+5829,Milanese,Cremonese,2022-23,a7c4268941cd1694
+5855,Tenkorang,Cremonese,2022-23,05cdfa3337791e0b
+5868,Bjorkengren,Lecce,2022-23,ab8d76bbbf33f097
+5873,Listkowski,Lecce,2022-23,fa41573bda1ddcf8
+5875,Adli,Milan,2022-23,f6feeeb0e871f5be
+5947,Hrustic,Verona,2022-23,44b74c32cb45ba0b
+5996,Samek,Lecce,2022-23,5d8abafb4476abd5
+6009,Degli Innocenti,Empoli,2022-23,cf7022e9cb6f9183
+6012,Acella,Cremonese,2022-23,f5434a76522da571
+6017,Tripi,Roma,2022-23,d2a96086edfc5b68
+6019,D'andrea,Sassuolo,2022-23,8056c59066b70f95
+6057,Garbett,Torino,2022-23,40397aea3318e4fa
+6106,Carboni V.,Inter,2022-23,ca0b29d5679325c1
+6168,Faticanti,Roma,2022-23,5bdbed349aac7502
+6175,Barrenechea,Juventus,2022-23,3cddd0d5aa362965
+4661,Osimhen,Napoli,2022-23,7e4a0c36b0cb466b
+4730,Lookman,Atalanta,2022-23,442d38348cbda41b
+785,Immobile,Lazio,2022-23,ddc8fc074d44fbd1
+4200,Giroud,Milan,2022-23,c8c93c5f1e74d350
+4268,Arnautovic,Bologna,2022-23,b6e71e90b8516fb2
+5786,Cabral,Fiorentina,2022-23,5ee69905c17b5eac
+647,Dzeko,Inter,2022-23,cfcb04a3486dd127
+5694,Beto,Udinese,2022-23,df40bb87c05b8fc3
+2544,Abraham,Roma,2022-23,1517d545cc11283e
+212,Ciofani D.,Cremonese,2022-23,e333b911dc9f8288
+2382,Di Maria,Juventus,2022-23,eaa356b1e5cd81cd
+4179,Gonzalez N.,Fiorentina,2022-23,7f6b9aec0c151cd5
+5836,Ceesay,Lecce,2022-23,b669759e8b443558
+5882,Mota,Monza,2022-23,51f3c38aa2924a50
+383,Petagna,Monza,2022-23,a77df71149e1e770
+1958,Caprari,Monza,2022-23,97e5dd0730dc1dbd
+2325,Karamoh,Torino,2022-23,0316c683463c09d8
+2762,Kouame',Fiorentina,2022-23,ad17bd0dfcfbba43
+407,Gabbiadini,Sampdoria,2022-23,369b25bd618b45f8
+537,Sansone,Bologna,2022-23,fede0fda53fad02c
+2119,Deulofeu,Udinese,2022-23,ac847d407b9a7595
+2719,Barrow,Bologna,2022-23,862c0e6f169bc908
+4517,Lozano,Napoli,2022-23,bfd43f94534d85ba
+6026,Dessers,Cremonese,2022-23,238f4351bb64abdc
+507,Muriel,Atalanta,2022-23,075b136d4540e876
+2369,Thauvin,Udinese,2022-23,0f497595c0070120
+2756,Piatek,Salernitana,2022-23,57c88a0ae43cebcc
+2819,Caputo,Empoli,2022-23,ae6798af508ae6ad
+2438,Jovic,Fiorentina,2022-23,6865deca1b87b6df
+2475,Sanchez,Inter,2022-23,fca997c4fc69aaa6
+5086,Zirkzee,Bologna,2022-23,95c75dd8d429367b
+5854,Tsadjout,Cremonese,2022-23,a9ac87fe9bb58e6e
+495,Correa,Inter,2022-23,29b502e872f1e57b
+4184,Brekalo,Fiorentina,2022-23,174805d25f7672a9
+177,Ilicic,Atalanta,2022-23,9b4c4973bab91d42
+186,Rebic,Milan,2022-23,5e7c2154ad0f84be
+215,Verde,Spezia,2022-23,2030abee0fb9718b
+1857,Di Francesco F.,Lecce,2022-23,9d8db9fb9116e25a
+1943,Nestorovski,Udinese,2022-23,8b8475054e393dce
+5676,Success,Udinese,2022-23,53a5687cb26dc41f
+6119,Solbakken,Roma,2022-23,e244f752d5549d4c
+5292,Lammers,Sampdoria,2022-23,5bb91ca4cb32e23e
+5460,Satriano,Empoli,2022-23,d6003e972254ea94
+5842,Botheim,Salernitana,2022-23,f9e320345fe87b8a
+643,Defrel,Sassuolo,2022-23,bcf802d3ddad9de7
+2466,Origi,Milan,2022-23,fc058fac9695b095
+5071,Jese',Sampdoria,2022-23,099ee05cf15f4ec1
+5394,Gaich,Verona,2022-23,92a5da1dd33ad3e2
+5864,Buonaiuto,Cremonese,2022-23,f1db41605c076e63
+6145,Ngonge,Verona,2022-23,2afe8c772f669995
+568,Quagliarella,Sampdoria,2022-23,401f399bc3d0eeea
+2103,Pellegri,Torino,2022-23,48a8d335a6724f54
+5311,Shomurodov,Spezia,2022-23,5e6067c76ace5918
+5439,Kallon,Verona,2022-23,ef3e56dc9c292c20
+5845,Alvarez A.,Sassuolo,2022-23,09383e611f3714c4
+90,Lasagna,Verona,2022-23,cf6bcb5c21a4b1a6
+2842,Zanimacchia,Cremonese,2022-23,a7a0d8400634da59
+5494,Di Mariano,Lecce,2022-23,5414b60a6b31529f
+5529,Henry,Verona,2022-23,3eca10f30041813f
+5714,Gondo,Cremonese,2022-23,591fc7c3f020c800
+315,Zaza,Torino,2022-23,01b7e97747035b79
+5690,Strelec,Spezia,2022-23,8c0ddd8d92c82f9a
+5806,Seck,Torino,2022-23,8b7710b6e02b30ac
+2195,Ounas,Napoli,2022-23,be9d15c6e047e75d
+2409,Ribery,Salernitana,2022-23,266701d9a10ce551
+2530,Ibrahimovic,Milan,2022-23,7603b22b84c8de50
+5673,Antiste,Sassuolo,2022-23,28739bb60edb42c3
+5728,Afena-Gyan,Cremonese,2022-23,0bcc9a40cb702787
+5881,Gytkjaer,Monza,2022-23,70644cae6735fbf3
+472,Destro,Empoli,2022-23,0df7fa84fe561dd6
+1998,Pjaca,Empoli,2022-23,e956f3db74e3ac43
+4500,Di Carmine,Cremonese,2022-23,f1de8a6372d894bb
+5814,Cisse',Atalanta,2022-23,cc1dcc5ffd833554
+5843,Valencia D.,Salernitana,2022-23,ccfb0a0dcc6c9b3d
+5865,Strizzolo,Cremonese,2022-23,9d8dd1634b900823
+1839,Edera,Torino,2022-23,909458e03ce561ad
+2826,Pussetto,Sampdoria,2022-23,bb4bf5c077d3accd
+4938,Moro,Lazio,2022-23,e4278d4e4339eaa0
+5378,Oddei,Sassuolo,2022-23,6efd32bf43e1747c
+5391,Kokorin,Fiorentina,2022-23,fcc192170e91c5a2
+5395,Braaf,Verona,2022-23,e86e770940048443
+5436,Raimondo,Bologna,2022-23,a63e2f7fd1b6ab9b
+5472,Kristoffersen,Salernitana,2022-23,ab1628ed495344a0
+5505,Kaio Jorge,Juventus,2022-23,7b48c04b58803e93
+5512,De Luca,Sampdoria,2022-23,d6d1320693eeb6a9
+5716,Podgoreanu,Spezia,2022-23,a664efddb16c48ee
+5785,Lazetic,Milan,2022-23,c854745cecd6e439
+5802,Mikael,Salernitana,2022-23,db0bc01cafdcc5ad
+5837,Voelkerling Persson,Lecce,2022-23,de614596dcacee4e
+5874,Rodriguez P.,Lecce,2022-23,ccbfb85c38929f3b
+6063,Sanca,Spezia,2022-23,228d076477b93fe7
+6113,Montevago,Sampdoria,2022-23,77e3ecfd830b7b91
+6143,Krollis,Spezia,2022-23,fa53b7808dcf7cd1
+6160,Vivaldo,Udinese,2022-23,4d8418370679af1d
+6172,Vorlicky,Atalanta,2022-23,be250b5c6c501fe2
+453,Szczesny,Juventus,2023-24,0034e9f88d4196fd
+6482,Mandas,Lazio,2023-24,7a4655c0a4728e73
+509,Consigli,Sassuolo,2023-24,9f3e0708237ab4b8
+4270,Rui Patricio,Roma,2023-24,4877f67f8857e4d0
+2792,Musso,Atalanta,2023-24,3b761fb1b36efb22
+2294,Cerofolini,Frosinone,2023-24,96586d7181f9f29c
+6120,Ochoa,Salernitana,2023-24,2f99e1e819cacac3
+316,Berisha,Empoli,2023-24,4bb5b73295a81c7b
+1946,Aresti,Cagliari,2023-24,123d7e89145f1d30
+1947,Fiorillo,Salernitana,2023-24,15449a58a13575d5
+2178,Cragno,Sassuolo,2023-24,15b211f58f8d9ced
+5853,Sorrentino A.,Monza,2023-24,8064f1289b8324a3
+3,Radunovic,Cagliari,2023-24,a89e9c49a3c064ba
+41,Mirante,Milan,2023-24,563f623b98b5f9db
+159,Sepe,Lazio,2023-24,295fdef1c0c6b084
+217,Lamanna,Monza,2023-24,04696cedcf06d887
+510,Pegolo,Sassuolo,2023-24,ee5839e91451b94f
+673,Perisan,Empoli,2023-24,962ab3b948c41cb5
+2338,Costil,Salernitana,2023-24,36434b9e8d072676
+2799,Frattali,Frosinone,2023-24,dbe4fecad1a41e11
+4351,Brancolini,Lecce,2023-24,3ce51b07f905176a
+4468,Bleve,Lecce,2023-24,b26a6904b137ae50
+4491,Berardi A.,Verona,2023-24,330896d38870611c
+4525,Gemello,Torino,2023-24,731d5c16ae66afa3
+5304,Boer,Roma,2023-24,4a6b6692adf2a1ab
+5502,Adamonis,Lazio,2023-24,1f67973e366b0d54
+5707,Piana,Udinese,2023-24,39f3a4707ff330ef
+5822,Bagnolini,Bologna,2023-24,a66562b7c7c75c40
+5832,Luis Maximiano,Lazio,2023-24,1c6128765bf235f5
+6184,Martinelli T.,Fiorentina,2023-24,f1c061929c21a630
+6210,Popa,Torino,2023-24,854f7368a3cc64b1
+6234,Stubljar,Empoli,2023-24,0c87ed1b0e5e37ee
+6248,Stankovic F.,Inter,2023-24,d62b8d03a30cff9d
+6255,Gori,Monza,2023-24,8be5d14f839f9f43
+6406,Borbei,Lecce,2023-24,3902d105fd5669e0
+6415,Palmisani,Frosinone,2023-24,c28d24676e89070c
+6509,Gasperini T.,Bologna,2023-24,1ef6af716bcf8e13
+6569,Stolz,Genoa,2023-24,0563d3e0da95a9a8
+4292,Hernandez T.,Milan,2023-24,8e29a714e405d250
+4945,Calafiori,Bologna,2023-24,fdc93d97b11036fb
+5323,Martinez Quarta,Fiorentina,2023-24,9734d3e10bdbcb07
+5365,Dragusin,Genoa,2023-24,fa81e8a0161021a7
+2169,Rodriguez R.,Torino,2023-24,b3a2c86da318b2e8
+5375,Maehle,Atalanta,2023-24,23d12790c4513e1f
+5867,Gendrey,Lecce,2023-24,f943d784324d559f
+6066,Posch,Bologna,2023-24,8785ce27b627e070
+4177,Pavard,Inter,2023-24,efa6043693b99ebf
+4237,Danilo,Juventus,2023-24,a95413d225237417
+5354,Ruggeri,Atalanta,2023-24,8ddeee4dc1dc47cd
+6235,Kayode,Fiorentina,2023-24,b702ddb6871c65d9
+357,Calabria,Milan,2023-24,de471946103842ff
+464,Florenzi,Milan,2023-24,21b76eb0d38e224a
+6148,Kristiansen,Bologna,2023-24,65412837b13bf672
+2285,Bani,Genoa,2023-24,ffa78f4d51ac0ffe
+4332,Demiral,Atalanta,2023-24,c2d469bb18eb8e2d
+4426,Toljan,Sassuolo,2023-24,2a689dfdd901fead
+4899,Singo,Torino,2023-24,1fee50ca5d782a47
+4904,Mari',Monza,2023-24,848e9d1588b14284
+5838,Birindelli,Monza,2023-24,a3d252b520611423
+5847,Bijol,Udinese,2023-24,df192ffd6d31ea60
+5856,Sambia,Salernitana,2023-24,62de729f4c5dbdca
+76,Romagnoli S.,Frosinone,2023-24,dee3d2ee94d8321e
+2769,Magnani,Verona,2023-24,50e256dfcbd4d7c2
+4245,Smalling,Roma,2023-24,e66385d647f17e01
+4331,Ibanez,Roma,2023-24,24161c465bdf2736
+4421,Augello,Cagliari,2023-24,bacbbcf32e97793d
+4952,Monterisi,Frosinone,2023-24,3b5ceaf36e5cd9df
+5239,Llorente D.,Roma,2023-24,6261aa4e8e56f571
+5677,Perez N.,Udinese,2023-24,c6f6d2ef7ca71823
+5982,Spence,Genoa,2023-24,82f4ceae3dc2f42f
+6041,Schuurs,Torino,2023-24,099744456ec1bb1f
+6257,Dorgu,Lecce,2023-24,921a5666efff39de
+459,Manolas,Salernitana,2023-24,8c44fc0bb8e7c8f5
+2104,Bereszynski,Empoli,2023-24,a511e382884ec1d9
+2318,Rogerio,Sassuolo,2023-24,3f23722d7c3235da
+4530,Kyriakopoulos,Monza,2023-24,b908f71d0d588f5e
+4982,Erlic,Sassuolo,2023-24,ecac7b77a270c3ab
+5067,Bakker,Atalanta,2023-24,84aa7008aab00dd5
+5764,Coppola D.,Verona,2023-24,729d288486394d77
+6245,Vogliacco,Genoa,2023-24,a50fb79b18dea03d
+6432,Pierozzi,Salernitana,2023-24,280cf4ba40b4b9b9
+49,Masina,Torino,2023-24,ef0ea88b4fcb6f2e
+1895,Ferrari G.,Sassuolo,2023-24,070c09296a0a5119
+2180,Karsdorp,Roma,2023-24,0cb311a04569fab1
+2405,Boateng J.,Salernitana,2023-24,5ae2a158520890ee
+4925,Carboni A.,Monza,2023-24,3a97c1a197b3b4c2
+4958,Caldirola,Monza,2023-24,04e44ea4eb0dfc83
+5332,Bastoni S.,Empoli,2023-24,ac62c14373f7fe57
+5695,Haps,Genoa,2023-24,6244d4500b24e46c
+5718,Viti,Sassuolo,2023-24,04014d2ff752942c
+5804,Cacace,Empoli,2023-24,b2eb19a04db41cf6
+6433,Huijsen,Roma,2023-24,24af623e558fe5e4
+226,Izzo,Monza,2023-24,e1a853e5cb66c6b9
+253,D'Ambrosio,Monza,2023-24,2fc090439129c2b8
+286,Bonucci,Juventus,2023-24,138c691937aef694
+662,Alex Sandro,Juventus,2023-24,4b10719a72083bb9
+695,Toloi,Atalanta,2023-24,de7386989822d19f
+729,Pereira P.,Monza,2023-24,45de068f631f9a44
+2016,Fazio,Salernitana,2023-24,1970c5b3bc78ceb2
+2083,Biraschi,Genoa,2023-24,80821349f8131450
+2130,Hateboer,Atalanta,2023-24,d552b0a3e7296cda
+2164,Milenkovic,Fiorentina,2023-24,246cb4a0c34a5b3f
+2252,Marchizza,Frosinone,2023-24,398103ee70057910
+2633,Kjaer,Milan,2023-24,af579ccf17de22b8
+4432,Okoli,Frosinone,2023-24,0fe16012cec87ea2
+4493,Dawidowicz,Verona,2023-24,a50da1bbf5a52a93
+4802,Vinagre,Verona,2023-24,659799a2114c052d
+4897,Pirola,Salernitana,2023-24,9adbe223731f210e
+5509,Vina,Sassuolo,2023-24,9dd2e37f8284b26f
+5848,Ebosele,Udinese,2023-24,f124d514310d9f93
+6231,Azzi,Cagliari,2023-24,9f7cd8d86632e70e
+6256,Ferreira J.,Udinese,2023-24,28e52aaaf153e9b0
+6576,Centonze,Verona,2023-24,4901fd54315c3a86
+142,Mario Rui,Napoli,2023-24,128862de4d064550
+2192,Bonifazi,Frosinone,2023-24,5f6ddebceb4d44a8
+2869,Djidji,Torino,2023-24,2155a0a0127f2107
+5447,Altare,Cagliari,2023-24,a1ba67d3a4620779
+5450,Stojanovic,Empoli,2023-24,81b02ea8a0216a73
+6055,Thiaw,Milan,2023-24,d7030d4bcdadf11a
+6189,Missori,Sassuolo,2023-24,bac6fcad3018e456
+6220,Kristensen,Roma,2023-24,0d7699e0b2bcd2f4
+660,Gyomber,Salernitana,2023-24,1c81387c06e9bb2b
+2174,Venuti,Lecce,2023-24,f37c2df9c2016d14
+4934,Lovato,Torino,2023-24,26f2dfabe3cd6a16
+5017,Ballo-Toure',Milan,2023-24,9c6eb32fae1ecdd1
+5316,Amione,Verona,2023-24,1a6675c3be4185fc
+5406,Di Pardo,Cagliari,2023-24,748e2dc3302e84ce
+5480,Ebuehi,Empoli,2023-24,c592887315ccea0e
+5533,Djalo',Juventus,2023-24,5c8c8f6e508d4c4f
+5554,Daniliuc,Salernitana,2023-24,29798e8affc72dec
+5686,Soppy,Torino,2023-24,36ff3b759dd2a61f
+5691,Zima,Torino,2023-24,e6772fc0c9395415
+5747,Tressoldi,Sassuolo,2023-24,675e620cca6384f6
+5748,Hefti,Genoa,2023-24,144e670aa258c49f
+5757,Cittadini,Genoa,2023-24,0000b76be5f22b65
+6023,Guessand A.,Udinese,2023-24,6ed82348a86f8829
+6238,Oyono,Frosinone,2023-24,87eb44451525f481
+6244,Matturro,Genoa,2023-24,6c9581041fe278c0
+6401,Gonzalez F.,Juventus,2023-24,ac33ac816e7d4710
+6438,Hatzidiakos,Cagliari,2023-24,24ae98ee9d6546c2
+6444,Bonfanti,Atalanta,2023-24,d4c61ab7c4070ce0
+6460,Pellegrino,Salernitana,2023-24,f6f53fb6909179d1
+6464,Wieteska,Cagliari,2023-24,fcb172ab0868dc5f
+6465,Touba,Lecce,2023-24,de7515db5002c46b
+6533,Giannetti L.,Udinese,2023-24,a440446f8f90e418
+6574,Pasalidis,Salernitana,2023-24,87c7db28c00705c6
+139,Dermaku,Lecce,2023-24,4dbf1287894c7766
+144,Tonelli,Empoli,2023-24,6c4ed61c30b2403c
+358,De Sciglio,Juventus,2023-24,5b3244ffb2f0af5a
+454,Capradossi,Cagliari,2023-24,5257f14edc3f4a14
+581,Faraoni,Fiorentina,2023-24,2e22a4928dd6adcf
+1876,Pajac,Genoa,2023-24,2bf2230f30ebdd8a
+2181,Palomino,Atalanta,2023-24,3da0bd4118eddf0c
+2446,Donati,Monza,2023-24,e92058bf0260a061
+2737,Bettella,Monza,2023-24,72c28e3a9f15359b
+2758,Gunter,Verona,2023-24,e2d5b9287fa8dee4
+4495,Kumbulla,Sassuolo,2023-24,0044df7444266b98
+4891,Soumaoro,Bologna,2023-24,283d81e32cec56ec
+5399,Antov,Monza,2023-24,3ec37909bc3e5187
+5424,Amey,Bologna,2023-24,da7906a92518c92e
+6021,Abankwah,Udinese,2023-24,49ad9c596d98580b
+6028,Bronn,Salernitana,2023-24,0b9efee25e24bdd2
+6043,Sosa,Bologna,2023-24,959d3d631fb6f17f
+6056,Guarino,Empoli,2023-24,cb43be0bf000dc64
+6208,Flamingo,Sassuolo,2023-24,14c06474bec5e7de
+6223,Smajlovic,Lecce,2023-24,1b3a0b8ba28e422b
+6237,Szyminski,Frosinone,2023-24,7a847b5fb19bf5a1
+6239,Klitten,Frosinone,2023-24,020d9b6621760374
+6253,N'Guessan,Torino,2023-24,406dc8c13f5d68ac
+6396,Natan,Napoli,2023-24,513b82a603b2a2c7
+6407,Corazza,Bologna,2023-24,0a498f228706f95a
+6411,Mateus Lusuardi,Frosinone,2023-24,73eb296e93897516
+6430,Kalaj,Frosinone,2023-24,38509a056c8900ab
+6474,Sazonov,Torino,2023-24,1cc25ff94ee38808
+6521,Simic J.,Milan,2023-24,e760fcb315c0c802
+6531,Jimenez A.,Milan,2023-24,666faaa0003bbb26
+6537,Goglichidze,Empoli,2023-24,5900e3eff0efd4ed
+6551,Ilic M.,Bologna,2023-24,23faa692c4de9858
+5878,Colpani,Monza,2023-24,87d11d63bdd3b014
+332,Candreva,Salernitana,2023-24,0349f5f7801bc1b4
+367,Bonaventura,Fiorentina,2023-24,828736aa8034df07
+2085,Luis Alberto,Lazio,2023-24,e2625ead0e7cb0d8
+181,Vecino,Lazio,2023-24,5690d67c82572452
+5001,Miranchuk,Atalanta,2023-24,c51177fa3c54ccb2
+335,Felipe Anderson,Lazio,2023-24,560b5203babf02dc
+6061,Oudin,Lecce,2023-24,b7fd45c3d75a1ede
+302,Pereyra,Udinese,2023-24,97bfc067fcea5dde
+440,Viola,Cagliari,2023-24,2f9d8b5e27798bf5
+5919,Tchaouna,Salernitana,2023-24,dbb2b63e06391276
+2741,Pessina,Monza,2023-24,416e547dc3285fd5
+6106,Carboni V.,Monza,2023-24,ca0b29d5679325c1
+6224,Reijnders,Milan,2023-24,ca0f982bb5357e2b
+2818,Bennacer,Milan,2023-24,8c592ee81f62b9bd
+526,Duncan,Fiorentina,2023-24,f69bf5514fde50d7
+4285,Arthur Melo,Fiorentina,2023-24,fce09a66656dfdee
+4869,Dominguez,Bologna,2023-24,1b8f9d2d1a64b744
+170,Badelj,Genoa,2023-24,ceae6b5c0136a786
+2172,Barak,Fiorentina,2023-24,15010db0d8298029
+4186,Guendouzi,Lazio,2023-24,024d25db026da412
+4514,Nandez,Cagliari,2023-24,09ecc7adcb5304f1
+5063,Radonjic,Torino,2023-24,4599ca604ee10084
+5719,Asllani,Inter,2023-24,c4b1fe53ba33fb3f
+6573,Alcaraz,Juventus,2023-24,272eee8550c77861
+236,Lazovic,Verona,2023-24,eb152dd8391835a1
+468,Paredes,Roma,2023-24,b1fc0d62e35b7e6a
+4142,Aouar,Roma,2023-24,b96e178aca419462
+4377,Castrovilli,Fiorentina,2023-24,27bfe232e9cc5bd9
+5870,Hjulmand,Lecce,2023-24,9e9ad84a12b2a2ab
+2117,Kastanos,Salernitana,2023-24,6f3d2cb5c1530cae
+2392,Walace,Udinese,2023-24,7809df679365595e
+4342,Duda,Verona,2023-24,6877183ad442b247
+4856,Chukwueze,Milan,2023-24,0eb5f50e05d866cd
+4988,Maggiore,Salernitana,2023-24,af6de2bea8b48358
+5564,Ndoye,Bologna,2023-24,e6fc093fbc081ce1
+6225,El Azzouzi,Bologna,2023-24,8b141357ff34100c
+376,Verdi,Torino,2023-24,688cc4f4855d1d7e
+4376,Zurkowski,Empoli,2023-24,ea0080a101518d4b
+4393,Schouten,Bologna,2023-24,6eef07128842c383
+4658,Ikone',Fiorentina,2023-24,cc09b7054d3abd31
+4965,Marin,Empoli,2023-24,52d9a2cc899a8db7
+5451,Bajrami,Sassuolo,2023-24,2d9887f9f8c2ee48
+5511,Matheus Henrique,Sassuolo,2023-24,26736bc89efae47f
+5948,Kamada,Lazio,2023-24,3552ac2419262405
+470,Strootman,Genoa,2023-24,4f7b73835094dd70
+5093,Reinier,Frosinone,2023-24,5dfbe9b445699aca
+5267,Racic,Sassuolo,2023-24,45ff0067a16dcf39
+5397,Kovalenko,Empoli,2023-24,fe48b2fbeb7cbc13
+5423,Bove,Roma,2023-24,4029236bb9c72317
+5875,Adli,Milan,2023-24,f6feeeb0e871f5be
+5999,Gonzalez J.,Lecce,2023-24,cf99899bce2ab5c6
+4522,Amrabat,Fiorentina,2023-24,8c0a0846e9a88e9d
+4992,Gyasi,Empoli,2023-24,6ed667b3e209e3d8
+5869,Blin,Lecce,2023-24,3e6f4b0cc270842c
+6532,Buchanan,Inter,2023-24,241a9b4cdefbc7b2
+6579,Mitrovic S.,Verona,2023-24,b27a11da9b08378e
+150,Saponara,Verona,2023-24,6386944247c1f146
+1987,Jankto,Cagliari,2023-24,9a937ba588917150
+2008,Linetty,Torino,2023-24,4761e933c390dba8
+2154,Vignato,Salernitana,2023-24,4a3bb2f9c503213c
+2857,Traore' Hj.,Napoli,2023-24,ceb6649b13ef346b
+4662,Weah,Juventus,2023-24,09e7e8b1fadb09ae
+5425,Urbanski,Bologna,2023-24,f19ec02393c62f09
+5499,Hongla,Verona,2023-24,0827ea5f8365dc62
+6175,Barrenechea,Frosinone,2023-24,3cddd0d5aa362965
+6222,Rafia,Lecce,2023-24,7bb0d9a54eb72e5d
+6480,Tchatchoua,Verona,2023-24,06f449d0f9926832
+1980,Aramu,Genoa,2023-24,a72724dd568d60d3
+2543,Renato Sanches,Roma,2023-24,ab1d1206ba6bfe1a
+5834,Marcos Antonio,Lazio,2023-24,87ece02005c73c0f
+5880,Ciurria,Monza,2023-24,6e0483eba26bc0d3
+5884,Ranocchia F.,Empoli,2023-24,86c9b140872dd90a
+6216,Mboula,Verona,2023-24,763b50bc86418b53
+6232,Makoumbou,Cagliari,2023-24,f526007d14f5afc5
+6241,Gelli,Frosinone,2023-24,9cc2e06b325b8867
+6402,Cajuste,Napoli,2023-24,b2dbc03bcceca5d3
+6423,Legowski,Salernitana,2023-24,a87c6a092f7bcb12
+6479,Kutlu,Genoa,2023-24,6970883cf49b0f47
+6492,Ibrahimovic A.,Frosinone,2023-24,ea24aa38805444bb
+6562,Dani Silva,Verona,2023-24,5e458afaebea0392
+148,Krunic,Milan,2023-24,1cd66c3470973656
+1978,Sensi,Inter,2023-24,8f4f3aa22eac4b0a
+2161,Haas,Empoli,2023-24,ff4dfc484a76ff95
+4182,Klaassen,Inter,2023-24,902ddb33d3a8e28c
+4498,Henderson L.,Empoli,2023-24,50aff0cb08437add
+4681,Lopez M.,Fiorentina,2023-24,819fd8cdede1ade1
+5782,Kourfalidis,Cagliari,2023-24,ce8279e3d12315e1
+5798,Bohinen,Genoa,2023-24,b4a9f89463ce4250
+5879,Vignato S.,Monza,2023-24,125ed8ec520745ea
+5949,Lindstrom,Napoli,2023-24,d8e1fd05202d16ad
+6410,Kaba,Lecce,2023-24,da3c01ea4729ba5f
+6448,Martegani,Salernitana,2023-24,f61954786d5d391b
+500,Lulic K.,Frosinone,2023-24,ccd3590fc38ae406
+694,Baez,Frosinone,2023-24,2a141d810954fa23
+2144,Coulibaly M.,Salernitana,2023-24,dbfc49c1bd49a6e6
+2274,Valoti,Monza,2023-24,55bef1bd634004a8
+4272,Dendoncker,Napoli,2023-24,c751eb628de464f5
+4501,Obiang,Sassuolo,2023-24,b505470d42b5a8a6
+6236,Amatucci,Fiorentina,2023-24,ee4bb30f4b137235
+6393,Infantino,Fiorentina,2023-24,ce8ece28139501ab
+6420,Pagano,Roma,2023-24,2da2d2a9420903b1
+6582,Gomis I.,Salernitana,2023-24,6eb0fc5db392ab07
+21,D'Alessandro,Monza,2023-24,9dfdef7bac0b4acb
+26,Gomez,Monza,2023-24,fc58b3226c4ec78f
+65,Mancosu,Cagliari,2023-24,84ac2eac263aac1f
+303,Pogba,Juventus,2023-24,50ba71a159de8455
+557,Benassi,Fiorentina,2023-24,59d27fc15a62fb8b
+666,Machin,Monza,2023-24,89fc2e196c3516c5
+2076,Rog,Cagliari,2023-24,06d499b5da810455
+2121,Melegoni,Genoa,2023-24,585940f347bcfc75
+2183,Garritano,Frosinone,2023-24,5221a20d9b74f4e7
+2286,Crociata,Empoli,2023-24,3a3007e2e7528f2c
+2692,Castillejo,Sassuolo,2023-24,0799516be3fb4fc5
+2825,Bourabia,Frosinone,2023-24,0c46b888d1cbb26a
+4384,Jagiello,Genoa,2023-24,7c5bf7bbe352db05
+4725,Demme,Napoli,2023-24,c27f829ac3b2d498
+4787,Quina,Udinese,2023-24,eb5681017f93b854
+5510,Romero L.,Milan,2023-24,96a7a997b420b66c
+5772,Pyyhtia,Bologna,2023-24,65457df26f724d52
+5824,Pafundi,Udinese,2023-24,f7e09c2bf5d8a474
+5947,Hrustic,Verona,2023-24,44b74c32cb45ba0b
+6009,Degli Innocenti,Empoli,2023-24,cf7022e9cb6f9183
+6168,Faticanti,Lecce,2023-24,5bdbed349aac7502
+6203,Belardinelli,Empoli,2023-24,773ac7bcc098c946
+6221,Camara E.,Udinese,2023-24,7229d2e82ff818df
+6233,Lella,Cagliari,2023-24,c52f572e0087729e
+6240,Haoudi,Frosinone,2023-24,8e08079d0ebef2f4
+6251,Saco,Napoli,2023-24,520aff2a1d3828fb
+6254,Joselito,Verona,2023-24,e441e75741d5dbcf
+6507,Nonge,Juventus,2023-24,936261062c3c6ba9
+6563,Popovic,Monza,2023-24,a1db2e85a6881ec7
+4200,Giroud,Milan,2023-24,c8c93c5f1e74d350
+4661,Osimhen,Napoli,2023-24,7e4a0c36b0cb466b
+4730,Lookman,Atalanta,2023-24,442d38348cbda41b
+4179,Gonzalez N.,Fiorentina,2023-24,7f6b9aec0c151cd5
+5086,Zirkzee,Bologna,2023-24,95c75dd8d429367b
+2002,Chiesa,Juventus,2023-24,a3a0a96bd2a15797
+5839,Kvaratskhelia,Napoli,2023-24,83a6c11e6c159473
+5786,Cabral,Fiorentina,2023-24,5ee69905c17b5eac
+6227,Okafor,Milan,2023-24,8b44b8f938c59c58
+5694,Beto,Udinese,2023-24,df40bb87c05b8fc3
+6228,Retegui,Genoa,2023-24,7a6715e32e193c0e
+6145,Ngonge,Napoli,2023-24,2afe8c772f669995
+6215,Lucca,Udinese,2023-24,3a79e4e1fad0b98a
+5297,Luvumbo,Cagliari,2023-24,35c166e1d233dd9d
+6409,Beltran L.,Fiorentina,2023-24,5fd37ece463df37d
+785,Immobile,Lazio,2023-24,ddc8fc074d44fbd1
+2369,Thauvin,Udinese,2023-24,0f497595c0070120
+2475,Sanchez,Inter,2023-24,fca997c4fc69aaa6
+4268,Arnautovic,Inter,2023-24,b6e71e90b8516fb2
+507,Muriel,Atalanta,2023-24,075b136d4540e876
+5795,Azmoun,Roma,2023-24,bd09c915c83b6f3a
+382,Niang,Empoli,2023-24,f4355d3db79c600e
+2438,Jovic,Milan,2023-24,6865deca1b87b6df
+2719,Barrow,Bologna,2023-24,862c0e6f169bc908
+5836,Ceesay,Lecce,2023-24,b669759e8b443558
+5882,Mota,Monza,2023-24,51f3c38aa2924a50
+6226,Castellanos,Lazio,2023-24,4b5e9f5083658a97
+5311,Shomurodov,Cagliari,2023-24,5e6067c76ace5918
+6229,Toure' E.,Atalanta,2023-24,b11fd5762d1ab8b3
+495,Correa,Inter,2023-24,29b502e872f1e57b
+2762,Kouame',Fiorentina,2023-24,ad17bd0dfcfbba43
+4517,Lozano,Napoli,2023-24,bfd43f94534d85ba
+537,Sansone,Lecce,2023-24,fede0fda53fad02c
+1939,Lapadula,Cagliari,2023-24,789e8872097b9b5b
+6580,Swiderski,Verona,2023-24,372d841291ae4202
+643,Defrel,Sassuolo,2023-24,bcf802d3ddad9de7
+1857,Di Francesco F.,Lecce,2023-24,9d8db9fb9116e25a
+4184,Brekalo,Fiorentina,2023-24,174805d25f7672a9
+1997,Simy,Salernitana,2023-24,b34f077d3d80a724
+2544,Abraham,Roma,2023-24,1517d545cc11283e
+306,Cerri,Empoli,2023-24,d8fa589cb7d1f2a0
+2819,Caputo,Empoli,2023-24,ae6798af508ae6ad
+5505,Kaio Jorge,Frosinone,2023-24,7b48c04b58803e93
+5807,Jovane,Salernitana,2023-24,d66a069b4f140e3c
+6119,Solbakken,Roma,2023-24,e244f752d5549d4c
+6250,Maric,Monza,2023-24,d69ea0116f29d112
+90,Lasagna,Verona,2023-24,cf6bcb5c21a4b1a6
+2103,Pellegri,Torino,2023-24,48a8d335a6724f54
+2190,Coda M.,Genoa,2023-24,fa4d40108b9ff4fa
+5529,Henry,Verona,2023-24,3eca10f30041813f
+6584,Weissman,Salernitana,2023-24,3d9769f64d68cf20
+383,Petagna,Cagliari,2023-24,a77df71149e1e770
+2325,Karamoh,Torino,2023-24,0316c683463c09d8
+5676,Success,Udinese,2023-24,53a5687cb26dc41f
+6214,Cuni,Frosinone,2023-24,1e69d1e5dbb628e7
+6425,Ikwuemesi,Salernitana,2023-24,a63da661ef3fac55
+2466,Origi,Milan,2023-24,fc058fac9695b095
+5446,Van Hooijdonk,Bologna,2023-24,c86439478be42919
+5806,Seck,Frosinone,2023-24,8b7710b6e02b30ac
+6213,Brenner,Udinese,2023-24,e2f730f7277bc46b
+472,Destro,Empoli,2023-24,0df7fa84fe561dd6
+1958,Caprari,Monza,2023-24,97e5dd0730dc1dbd
+5364,Caso,Frosinone,2023-24,9652dd35d2ddb6d6
+5842,Botheim,Salernitana,2023-24,f9e320345fe87b8a
+6205,Mulattieri,Sassuolo,2023-24,2080d523da1b299d
+6395,Shpendi S.,Empoli,2023-24,145630d5d9c67e8d
+6459,Karlsson,Bologna,2023-24,509882e611f8692a
+6558,Tavsan,Verona,2023-24,d57a92e784fffb9e
+281,Puscas,Genoa,2023-24,34045392da86dd5b
+2119,Deulofeu,Udinese,2023-24,ac847d407b9a7595
+2122,Latte Lath,Atalanta,2023-24,6180209038b3a0cd
+5060,Ake' M.,Udinese,2023-24,3d065ac1637d922b
+5391,Kokorin,Fiorentina,2023-24,fcc192170e91c5a2
+5395,Braaf,Verona,2023-24,e86e770940048443
+5415,Traore' C.,Milan,2023-24,6cf4b6bd817d9b96
+5436,Raimondo,Bologna,2023-24,a63e2f7fd1b6ab9b
+5439,Kallon,Verona,2023-24,ef3e56dc9c292c20
+5776,Ceide,Sassuolo,2023-24,bbe3efff087c5b59
+5837,Voelkerling Persson,Lecce,2023-24,de614596dcacee4e
+5843,Valencia D.,Salernitana,2023-24,ccfb0a0dcc6c9b3d
+5845,Alvarez A.,Sassuolo,2023-24,09383e611f3714c4
+5874,Rodriguez P.,Lecce,2023-24,ccbfb85c38929f3b
+6011,Ekong,Empoli,2023-24,5c69d6b9170a67cd
+6160,Vivaldo,Udinese,2023-24,4d8418370679af1d
+6204,Kvernadze,Frosinone,2023-24,1b48f8536eaafea6
+6242,Bidaoui,Frosinone,2023-24,85fd19777cf2daf8
+6247,Yalcin,Genoa,2023-24,4087f8fddda76bb8
+6249,Diaw,Monza,2023-24,2133ad67fa922513
+6418,Burnete,Lecce,2023-24,6bf3601c57767a6f
+6419,Corfitzen,Lecce,2023-24,220539386962d644
+6427,Stewart,Salernitana,2023-24,ec31ab75ddf97735
+6490,Cruz,Verona,2023-24,040bee673af4d8db
+6530,Ghedjemis,Frosinone,2023-24,56bcec56d7c4817f
+6565,Ankeye,Genoa,2023-24,5dbb681a38771f28
+6583,Kabic,Torino,2023-24,24b933f0d44213a8

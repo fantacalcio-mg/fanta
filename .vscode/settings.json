@@ -1,0 +1,18 @@
+{
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.parquet": "duckdb.dataFileViewer",
+        "*.csv": "duckdb.dataFileViewer",
+        "*.tsv": "duckdb.dataFileViewer",
+        "*.xlsx": "duckdb.dataFileViewer"
+    },
+    "duckdb.databases": [
+        {
+            "alias": "fanta",
+            "type": "file",
+            "path": "/Volumes/macOSdev/playground/fanta/data/canonical/fanta.duckdb",
+            "attached": true
+        }
+    ],
+    "duckdb.defaultDatabase": "fanta"
+}

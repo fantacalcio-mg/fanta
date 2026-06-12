@@ -1,0 +1,344 @@
+nome,squadra,confidence,status
+Szczesny,Juventus,53.3,UNRESOLVED
+Mandas,Lazio,72.7,UNRESOLVED
+Consigli,Sassuolo,66.7,UNRESOLVED
+Rui Patricio,Roma,66.7,UNRESOLVED
+Musso,Atalanta,66.7,UNRESOLVED
+Cerofolini,Frosinone,66.7,UNRESOLVED
+Ochoa,Salernitana,66.7,UNRESOLVED
+Aresti,Cagliari,66.7,UNRESOLVED
+Fiorillo,Salernitana,66.7,UNRESOLVED
+Cragno,Sassuolo,66.7,UNRESOLVED
+Sorrentino A.,Monza,66.7,UNRESOLVED
+Radunovic,Cagliari,66.7,UNRESOLVED
+Mirante,Milan,66.7,UNRESOLVED
+Lamanna,Monza,57.1,UNRESOLVED
+Costil,Salernitana,66.7,UNRESOLVED
+Brancolini,Lecce,70.6,UNRESOLVED
+Bleve,Lecce,57.1,UNRESOLVED
+Gemello,Torino,66.7,UNRESOLVED
+Boer,Roma,66.7,UNRESOLVED
+Adamonis,Lazio,62.5,UNRESOLVED
+Piana,Udinese,66.7,UNRESOLVED
+Luis Maximiano,Lazio,50.0,UNRESOLVED
+Martinelli T.,Fiorentina,63.2,UNRESOLVED
+Popa,Torino,66.7,UNRESOLVED
+Stubljar,Empoli,57.1,UNRESOLVED
+Stankovic F.,Inter,60.9,UNRESOLVED
+Borbei,Lecce,71.4,UNRESOLVED
+Palmisani,Frosinone,66.7,UNRESOLVED
+Gasperini T.,Bologna,66.7,UNRESOLVED
+Stolz,Genoa,60.0,UNRESOLVED
+Hernandez T.,Milan,52.6,UNRESOLVED
+Calafiori,Bologna,66.7,UNRESOLVED
+Dragusin,Genoa,62.5,UNRESOLVED
+Maehle,Atalanta,72.7,UNRESOLVED
+Gendrey,Lecce,57.1,UNRESOLVED
+Posch,Bologna,54.5,UNRESOLVED
+Pavard,Inter,72.7,UNRESOLVED
+Ruggeri,Atalanta,61.5,UNRESOLVED
+Kayode,Fiorentina,60.0,UNRESOLVED
+Florenzi,Milan,66.7,UNRESOLVED
+Bani,Genoa,72.7,UNRESOLVED
+Demiral,Atalanta,61.5,UNRESOLVED
+Toljan,Sassuolo,61.5,UNRESOLVED
+Singo,Torino,66.7,UNRESOLVED
+Mari',Monza,72.7,UNRESOLVED
+Birindelli,Monza,66.7,UNRESOLVED
+Bijol,Udinese,72.7,UNRESOLVED
+Sambia,Salernitana,71.4,UNRESOLVED
+Ibanez,Roma,61.5,UNRESOLVED
+Augello,Cagliari,66.7,UNRESOLVED
+Monterisi,Frosinone,62.5,UNRESOLVED
+Llorente D.,Roma,66.7,UNRESOLVED
+Spence,Genoa,61.5,UNRESOLVED
+Schuurs,Torino,50.0,UNRESOLVED
+Manolas,Salernitana,71.4,UNRESOLVED
+Bereszynski,Empoli,57.1,UNRESOLVED
+Rogerio,Sassuolo,61.5,UNRESOLVED
+Kyriakopoulos,Monza,45.5,UNRESOLVED
+Erlic,Sassuolo,72.7,UNRESOLVED
+Bakker,Atalanta,57.1,UNRESOLVED
+Vogliacco,Genoa,62.5,UNRESOLVED
+Ferrari G.,Sassuolo,58.8,UNRESOLVED
+Karsdorp,Roma,61.5,UNRESOLVED
+Boateng J.,Salernitana,66.7,UNRESOLVED
+Haps,Genoa,50.0,UNRESOLVED
+Cacace,Empoli,66.7,UNRESOLVED
+Huijsen,Roma,72.7,UNRESOLVED
+Izzo,Monza,57.1,UNRESOLVED
+D'Ambrosio,Monza,55.6,UNRESOLVED
+Bonucci,Juventus,61.5,UNRESOLVED
+Alex Sandro,Juventus,60.0,UNRESOLVED
+Toloi,Atalanta,72.7,UNRESOLVED
+Pereira P.,Monza,66.7,UNRESOLVED
+Fazio,Salernitana,66.7,UNRESOLVED
+Hateboer,Atalanta,66.7,UNRESOLVED
+Milenkovic,Fiorentina,73.7,UNRESOLVED
+Marchizza,Frosinone,62.5,UNRESOLVED
+Kjaer,Milan,54.5,UNRESOLVED
+Okoli,Frosinone,61.5,UNRESOLVED
+Dawidowicz,Verona,57.1,UNRESOLVED
+Vinagre,Verona,61.5,UNRESOLVED
+Azzi,Cagliari,72.7,UNRESOLVED
+Ferreira J.,Udinese,57.1,UNRESOLVED
+Centonze,Verona,62.5,UNRESOLVED
+Mario Rui,Napoli,71.4,UNRESOLVED
+Bonifazi,Frosinone,70.6,UNRESOLVED
+Djidji,Torino,57.1,UNRESOLVED
+Altare,Cagliari,66.7,UNRESOLVED
+Thiaw,Milan,54.5,UNRESOLVED
+Missori,Sassuolo,61.5,UNRESOLVED
+Gyomber,Salernitana,66.7,UNRESOLVED
+Lovato,Torino,61.5,UNRESOLVED
+Ballo-Toure',Milan,50.0,UNRESOLVED
+Amione,Verona,72.7,UNRESOLVED
+Di Pardo,Cagliari,66.7,UNRESOLVED
+Ebuehi,Empoli,57.1,UNRESOLVED
+Djalo',Juventus,60.0,UNRESOLVED
+Daniliuc,Salernitana,66.7,UNRESOLVED
+Soppy,Torino,46.2,UNRESOLVED
+Zima,Torino,60.0,UNRESOLVED
+Tressoldi,Sassuolo,58.8,UNRESOLVED
+Hefti,Genoa,54.5,UNRESOLVED
+Cittadini,Genoa,62.5,UNRESOLVED
+Dodo',Fiorentina,66.7,UNRESOLVED
+Guessand A.,Udinese,64.0,UNRESOLVED
+Oyono,Frosinone,60.0,UNRESOLVED
+Matturro,Genoa,63.2,UNRESOLVED
+Gonzalez F.,Juventus,57.1,UNRESOLVED
+Hatzidiakos,Cagliari,53.3,UNRESOLVED
+Bonfanti,Atalanta,61.5,UNRESOLVED
+Wieteska,Cagliari,57.1,UNRESOLVED
+Touba,Lecce,66.7,UNRESOLVED
+Giannetti L.,Udinese,63.6,UNRESOLVED
+Dermaku,Lecce,61.5,UNRESOLVED
+Tonelli,Empoli,66.7,UNRESOLVED
+De Sciglio,Juventus,63.6,UNRESOLVED
+Capradossi,Cagliari,66.7,UNRESOLVED
+Faraoni,Fiorentina,66.7,UNRESOLVED
+Pajac,Genoa,66.7,UNRESOLVED
+Palomino,Atalanta,62.5,UNRESOLVED
+Donati,Monza,61.5,UNRESOLVED
+Bettella,Monza,66.7,UNRESOLVED
+Gunter,Verona,66.7,UNRESOLVED
+Kumbulla,Sassuolo,57.1,UNRESOLVED
+Soumaoro,Bologna,61.5,UNRESOLVED
+Antov,Monza,72.7,UNRESOLVED
+Amey,Bologna,60.0,UNRESOLVED
+Abankwah,Udinese,61.5,UNRESOLVED
+Sosa,Bologna,61.5,UNRESOLVED
+Guarino,Empoli,62.5,UNRESOLVED
+Flamingo,Sassuolo,71.4,UNRESOLVED
+Szyminski,Frosinone,66.7,UNRESOLVED
+Klitten,Frosinone,61.5,UNRESOLVED
+N'Guessan,Torino,62.5,UNRESOLVED
+Natan,Napoli,66.7,UNRESOLVED
+Corazza,Bologna,61.5,UNRESOLVED
+Mateus Lusuardi,Frosinone,48.0,UNRESOLVED
+Kalaj,Frosinone,54.5,UNRESOLVED
+Sazonov,Torino,57.1,UNRESOLVED
+Simic J.,Milan,66.7,UNRESOLVED
+Jimenez A.,Milan,70.6,UNRESOLVED
+Goglichidze,Empoli,55.6,UNRESOLVED
+Candreva,Salernitana,62.5,UNRESOLVED
+Bonaventura,Fiorentina,63.2,UNRESOLVED
+Luis Alberto,Lazio,63.2,UNRESOLVED
+Vecino,Lazio,66.7,UNRESOLVED
+Miranchuk,Atalanta,62.5,UNRESOLVED
+Felipe Anderson,Lazio,74.1,UNRESOLVED
+Oudin,Lecce,66.7,UNRESOLVED
+Pereyra,Udinese,57.1,UNRESOLVED
+Viola,Cagliari,72.7,UNRESOLVED
+Tchaouna,Salernitana,57.1,UNRESOLVED
+Reijnders,Milan,60.0,UNRESOLVED
+Bennacer,Milan,57.1,UNRESOLVED
+Duncan,Fiorentina,54.5,UNRESOLVED
+Arthur Melo,Fiorentina,58.8,UNRESOLVED
+Badelj,Genoa,61.5,UNRESOLVED
+Barak,Fiorentina,66.7,UNRESOLVED
+Guendouzi,Lazio,57.1,UNRESOLVED
+Nandez,Cagliari,54.5,UNRESOLVED
+Radonjic,Torino,62.5,UNRESOLVED
+Asllani,Inter,66.7,UNRESOLVED
+Alcaraz,Juventus,58.8,UNRESOLVED
+Paredes,Roma,66.7,UNRESOLVED
+Aouar,Roma,60.0,UNRESOLVED
+Castrovilli,Fiorentina,72.7,UNRESOLVED
+Hjulmand,Lecce,66.7,UNRESOLVED
+Kastanos,Salernitana,70.6,UNRESOLVED
+Walace,Udinese,61.5,UNRESOLVED
+Duda,Verona,66.7,UNRESOLVED
+Chukwueze,Milan,47.1,UNRESOLVED
+Maggiore,Salernitana,61.5,UNRESOLVED
+Ndoye,Bologna,72.7,UNRESOLVED
+El Azzouzi,Bologna,70.0,UNRESOLVED
+Verdi,Torino,72.7,UNRESOLVED
+Zurkowski,Empoli,73.7,UNRESOLVED
+Schouten,Bologna,57.1,UNRESOLVED
+Ikone',Fiorentina,61.5,UNRESOLVED
+Bajrami,Sassuolo,58.8,UNRESOLVED
+Strootman,Genoa,62.5,UNRESOLVED
+Reinier,Frosinone,62.5,UNRESOLVED
+Racic,Sassuolo,72.7,UNRESOLVED
+Kovalenko,Empoli,62.5,UNRESOLVED
+Bove,Roma,66.7,UNRESOLVED
+Adli,Milan,72.7,UNRESOLVED
+Gonzalez J.,Lecce,63.2,UNRESOLVED
+Amrabat,Fiorentina,61.5,UNRESOLVED
+Gyasi,Empoli,72.7,UNRESOLVED
+Blin,Lecce,61.5,UNRESOLVED
+Buchanan,Inter,61.5,UNRESOLVED
+Mitrovic S.,Verona,63.2,UNRESOLVED
+Jankto,Cagliari,60.0,UNRESOLVED
+Linetty,Torino,61.5,UNRESOLVED
+Vignato,Salernitana,66.7,UNRESOLVED
+Traore' Hj.,Napoli,60.0,UNRESOLVED
+Weah,Juventus,50.0,UNRESOLVED
+Urbanski,Bologna,61.5,UNRESOLVED
+Hongla,Verona,60.0,UNRESOLVED
+Barrenechea,Frosinone,58.8,UNRESOLVED
+Rafia,Lecce,60.0,UNRESOLVED
+Tchatchoua,Verona,50.0,UNRESOLVED
+Aramu,Genoa,60.0,UNRESOLVED
+Renato Sanches,Roma,60.0,UNRESOLVED
+Marcos Antonio,Lazio,58.3,UNRESOLVED
+Ciurria,Monza,57.1,UNRESOLVED
+Ranocchia F.,Empoli,69.2,UNRESOLVED
+Mboula,Verona,66.7,UNRESOLVED
+Makoumbou,Cagliari,58.8,UNRESOLVED
+Gelli,Frosinone,66.7,UNRESOLVED
+Cajuste,Napoli,61.5,UNRESOLVED
+Kutlu,Genoa,72.7,UNRESOLVED
+Ibrahimovic A.,Frosinone,58.3,UNRESOLVED
+Dani Silva,Verona,58.8,UNRESOLVED
+Krunic,Milan,66.7,UNRESOLVED
+Sensi,Inter,72.7,UNRESOLVED
+Haas,Empoli,50.0,UNRESOLVED
+Klaassen,Inter,62.5,UNRESOLVED
+Henderson L.,Empoli,60.0,UNRESOLVED
+Kourfalidis,Cagliari,66.7,UNRESOLVED
+Bohinen,Genoa,72.7,UNRESOLVED
+Vignato S.,Monza,66.7,UNRESOLVED
+Lindstrom,Napoli,66.7,UNRESOLVED
+Kaba,Lecce,66.7,UNRESOLVED
+Martegani,Salernitana,66.7,UNRESOLVED
+Lulic K.,Frosinone,62.5,UNRESOLVED
+Baez,Frosinone,66.7,UNRESOLVED
+Dendoncker,Napoli,62.5,UNRESOLVED
+Obiang,Sassuolo,61.5,UNRESOLVED
+Amatucci,Fiorentina,66.7,UNRESOLVED
+Infantino,Fiorentina,66.7,UNRESOLVED
+Pagano,Roma,66.7,UNRESOLVED
+Gomis I.,Salernitana,55.6,UNRESOLVED
+D'Alessandro,Monza,52.6,UNRESOLVED
+Gomez,Monza,66.7,UNRESOLVED
+Mancosu,Cagliari,57.1,UNRESOLVED
+Pogba,Juventus,72.7,UNRESOLVED
+Benassi,Fiorentina,70.6,UNRESOLVED
+Rog,Cagliari,60.0,UNRESOLVED
+Melegoni,Genoa,62.5,UNRESOLVED
+Crociata,Empoli,66.7,UNRESOLVED
+Castillejo,Sassuolo,62.5,UNRESOLVED
+Bourabia,Frosinone,62.5,UNRESOLVED
+Jagiello,Genoa,62.5,UNRESOLVED
+Demme,Napoli,54.5,UNRESOLVED
+Quina,Udinese,66.7,UNRESOLVED
+Pyyhtia,Bologna,50.0,UNRESOLVED
+Pafundi,Udinese,61.5,UNRESOLVED
+Hrustic,Verona,71.4,UNRESOLVED
+Degli Innocenti,Empoli,54.5,UNRESOLVED
+Faticanti,Lecce,62.5,UNRESOLVED
+Belardinelli,Empoli,63.2,UNRESOLVED
+Lella,Cagliari,66.7,UNRESOLVED
+Saco,Napoli,66.7,UNRESOLVED
+Joselito,Verona,62.5,UNRESOLVED
+Nonge,Juventus,54.5,UNRESOLVED
+Popovic,Monza,66.7,UNRESOLVED
+Giroud,Milan,61.5,UNRESOLVED
+Osimhen,Napoli,71.4,UNRESOLVED
+Lookman,Atalanta,71.4,UNRESOLVED
+Gonzalez N.,Fiorentina,58.8,UNRESOLVED
+Zirkzee,Bologna,50.0,UNRESOLVED
+Chiesa,Juventus,60.0,UNRESOLVED
+Kvaratskhelia,Napoli,57.1,UNRESOLVED
+Soule',Frosinone,72.7,UNRESOLVED
+Okafor,Milan,61.5,UNRESOLVED
+Beto,Udinese,72.7,UNRESOLVED
+Retegui,Genoa,60.0,UNRESOLVED
+Ngonge,Napoli,61.5,UNRESOLVED
+Lucca,Udinese,54.5,UNRESOLVED
+Luvumbo,Cagliari,61.5,UNRESOLVED
+Beltran L.,Fiorentina,60.0,UNRESOLVED
+Immobile,Lazio,53.3,UNRESOLVED
+Thauvin,Udinese,57.1,UNRESOLVED
+Sanchez,Inter,58.8,UNRESOLVED
+Arnautovic,Inter,66.7,UNRESOLVED
+Muriel,Atalanta,72.7,UNRESOLVED
+Azmoun,Roma,72.7,UNRESOLVED
+Niang,Empoli,57.1,UNRESOLVED
+Jovic,Milan,72.7,UNRESOLVED
+Barrow,Bologna,61.5,UNRESOLVED
+Ceesay,Lecce,57.1,UNRESOLVED
+Castellanos,Lazio,63.6,UNRESOLVED
+Shomurodov,Cagliari,52.6,UNRESOLVED
+Toure' E.,Atalanta,70.6,UNRESOLVED
+Correa,Inter,66.7,UNRESOLVED
+Kouame',Fiorentina,57.1,UNRESOLVED
+Lozano,Napoli,66.7,UNRESOLVED
+Sansone,Lecce,57.1,UNRESOLVED
+Lapadula,Cagliari,53.3,UNRESOLVED
+Swiderski,Verona,58.8,UNRESOLVED
+Defrel,Sassuolo,61.5,UNRESOLVED
+Di Francesco F.,Lecce,55.2,UNRESOLVED
+Brekalo,Fiorentina,66.7,UNRESOLVED
+Simy,Salernitana,54.5,UNRESOLVED
+Abraham,Roma,58.8,UNRESOLVED
+Cerri,Empoli,72.7,UNRESOLVED
+Caputo,Empoli,57.1,UNRESOLVED
+Kaio Jorge,Frosinone,60.0,UNRESOLVED
+Solbakken,Roma,62.5,UNRESOLVED
+Lasagna,Verona,62.5,UNRESOLVED
+Coda M.,Genoa,58.8,UNRESOLVED
+Henry,Verona,66.7,UNRESOLVED
+Weissman,Salernitana,55.6,UNRESOLVED
+Petagna,Cagliari,61.5,UNRESOLVED
+Karamoh,Torino,66.7,UNRESOLVED
+Success,Udinese,53.3,UNRESOLVED
+Cuni,Frosinone,60.0,UNRESOLVED
+Ikwuemesi,Salernitana,52.6,UNRESOLVED
+Origi,Milan,66.7,UNRESOLVED
+Van Hooijdonk,Bologna,50.0,UNRESOLVED
+Seck,Frosinone,72.7,UNRESOLVED
+Destro,Empoli,66.7,UNRESOLVED
+Caprari,Monza,71.4,UNRESOLVED
+Caso,Frosinone,66.7,UNRESOLVED
+Botheim,Salernitana,57.1,UNRESOLVED
+Mulattieri,Sassuolo,60.0,UNRESOLVED
+Shpendi S.,Empoli,54.5,UNRESOLVED
+Karlsson,Bologna,70.6,UNRESOLVED
+Tavsan,Verona,60.0,UNRESOLVED
+Puscas,Genoa,61.5,UNRESOLVED
+Deulofeu,Udinese,53.3,UNRESOLVED
+Latte Lath,Atalanta,55.6,UNRESOLVED
+Ake' M.,Udinese,66.7,UNRESOLVED
+Kokorin,Fiorentina,61.5,UNRESOLVED
+Braaf,Verona,61.5,UNRESOLVED
+Traore' C.,Milan,63.2,UNRESOLVED
+Kallon,Verona,72.7,UNRESOLVED
+Ceide,Sassuolo,61.5,UNRESOLVED
+Voelkerling Persson,Lecce,51.9,UNRESOLVED
+Valencia D.,Salernitana,73.7,UNRESOLVED
+Alvarez A.,Sassuolo,70.6,UNRESOLVED
+Ekong,Empoli,54.5,UNRESOLVED
+Vivaldo,Udinese,57.1,UNRESOLVED
+Kvernadze,Frosinone,62.5,UNRESOLVED
+Bidaoui,Frosinone,57.1,UNRESOLVED
+Yalcin,Genoa,62.5,UNRESOLVED
+Burnete,Lecce,71.4,UNRESOLVED
+Corfitzen,Lecce,57.1,UNRESOLVED
+Stewart,Salernitana,61.5,UNRESOLVED
+Cruz,Verona,54.5,UNRESOLVED
+Ghedjemis,Frosinone,53.3,UNRESOLVED
+Ankeye,Genoa,60.0,UNRESOLVED
+Kabic,Torino,60.0,UNRESOLVED
