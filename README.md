@@ -176,3 +176,4 @@ Ogni milestone chiude con `verify.sh` verde su **dati reali**.
 ---
 
 **Master spec:** [`SPEC-FANTA.md`](./SPEC-FANTA.md)
+# fanta
